@@ -50,7 +50,7 @@ defmodule ProcessText do
   end
 
   defp q?(line) do
-    [number, rest] = String.split(line, ".", parts: 2)
+    [number, _rest] = String.split(line, ".", parts: 2)
     case Integer.parse(number) do
       {_, ""} -> true
       _ -> false
@@ -78,19 +78,6 @@ defmodule ProcessText do
             "”" -> {:halt, {count + 1, concat_str <> " " <> line |> String.trim()}}
             _ -> {:cont, {count + 1, concat_str <> " " <> line}}
           end
-      end
-      # case String.last(line) do
-      #   "." -> {:halt, {count + 1, concat_str <> " " <> line |> String.trim() }}
-      #   _ -> {:cont, {count + 1, concat_str <> " " <> line }}
-      # end
-    end)
-  end
-
-  defp concat_others(lines) do
-    Enum.reduce_while(lines, {0, ""}, fn line, {count, concat_str} -> 
-      case String.last(line) do
-        "”" -> {:halt, {count + 1, concat_str <> line |> String.trim() }}
-        _ -> {:cont, {count + 1, concat_str}}
       end
     end)
   end
@@ -142,7 +129,7 @@ defmodule ProcessText do
     end
   end
 
-  defp line_numbers_to_q([head | rest] = list, [one | numbers] = list_numbers, result) do
+  defp line_numbers_to_q([head | rest], [_one | numbers] = list_numbers, result) do
     list_numbers_len = length(list_numbers)
     first = "1. " <> binary_slice(head, (list_numbers_len * 3)..-1//1)
 
@@ -174,7 +161,7 @@ defmodule ProcessText do
       end)
 
     case list_numbers do
-      [head, second | rest] -> line_numbers_to_q(list, list_numbers, result)
+      [_head, _second | _rest] -> line_numbers_to_q(list, list_numbers, result)
       _ -> match_list_numbers(rest, [str | result])
     end
   end
@@ -196,10 +183,10 @@ defmodule ProcessText do
       |> remove_page_numbers()
       |> concat_stray_lines([""])
       |> match_list_numbers([])
-      |> IO.inspect(limit: :infinity)
+      # |> IO.inspect(limit: :infinity)
       |> Enum.join("\n")
 
-    File.write!(Path.join(Path.dirname(__ENV__.file) <> "/../assets", "catechism-intermediate-2.txt"), content)
+    # File.write!(Path.join(Path.dirname(__ENV__.file) <> "/../assets", "catechism-intermediate-2.txt"), content)
   end
 end
 
