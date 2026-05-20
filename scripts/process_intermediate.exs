@@ -26,8 +26,9 @@ defmodule ProcessIntermediate do
     end)
   end
 
-  defp create_text_map(type, text, style \\ nil) do
-    %{
+  defp create_text_map(type, text, should_hash \\ false, style \\ nil) do
+
+    text_map = %{
       type: type,
       words: [
         %{
@@ -36,6 +37,12 @@ defmodule ProcessIntermediate do
         }
       ]
     }
+
+    case should_hash do
+      true -> Map.put_new(text_map, :uid, :crypto.hash(:md5, text) |> Base.encode16(case: :lower) |> String.slice(0, 10))
+      false -> text_map
+    end
+
   end
 
   defp remove_number_from_str(str) do
@@ -47,7 +54,7 @@ defmodule ProcessIntermediate do
     lessons
     |> Enum.map(fn [lesson_str | qa] ->
       lesson_map = %{
-        text: create_text_map("heading", lesson_str),
+        text: create_text_map("heading", lesson_str, true),
         read: %{},
         list: []
       }
@@ -55,10 +62,11 @@ defmodule ProcessIntermediate do
       Enum.reduce(qa, lesson_map, fn str, lesson_map -> 
         case str do
           "Read: " <> rest -> %{lesson_map | read: create_text_map("read", rest)} 
+          "Written Work" -> %{lesson_map | list: [create_text_map("subheading", str) | lesson_map.list]}
           "a. " <> _rest -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
           "A. " <> _rest -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
-          "Q. " <> _rest -> %{lesson_map | list: [ create_text_map("question", str) | lesson_map.list]}
-          <<x::utf8, _rest::binary>> when x in ?0..?9 -> %{lesson_map | list: [ create_text_map("question", str) | lesson_map.list]}
+          "Q. " <> _rest -> %{lesson_map | list: [ create_text_map("question", str, true) | lesson_map.list]}
+          <<x::utf8, _rest::binary>> when x in ?0..?9 -> %{lesson_map | list: [ create_text_map("question", str, true) | lesson_map.list]}
           "Memory verse: " <> _rest -> %{lesson_map | list: [ create_text_map("memoryverse", str) | lesson_map.list]}
           _ -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
         end
@@ -91,24 +99,20 @@ defmodule ProcessIntermediate do
   defp handle_lesson_generic(list) do
     {drop_count, title_list} = title_drop_count(list)
     title = title_list |> Enum.join(" ")
-    [section | sub_section] = title_list
+    [section | sub_headings] = title_list
 
     list_after_section_heading = Enum.drop(list, drop_count)
 
     {lesson_drop_count, lesson_list} = process_lessons(list_after_section_heading)
 
+    section_text_map = create_text_map("heading", section)
+
     result = %{
       section: %{
-        raw: section,
-        text: [create_text_map("heading", section)]
+        text: Map.update!(section_text_map, :words, fn words ->
+          words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
+        end)
       },
-      sub_section: Enum.map(sub_section, fn text -> 
-        %{
-          raw: text,
-          text: [create_text_map("subheading", text)]
-        }
-      end),
-      raw: title,
       lessons: lesson_list
     }
 
@@ -126,7 +130,7 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings(["Introduction to the Belgic Confession, Canons of Dordtrecht, and Heidelberg Catechism" = str | rest], result) do
     lesson_map = %{
       lesson: str,
-      text: create_text_map("heading", str),
+      text: create_text_map("heading", str, true),
       read: %{},
       list: []
     }
@@ -136,7 +140,7 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings([str | rest], [curr_lesson_map | rest_result]) do
     reading_map = case str do 
       x when x in ["Introductory Notes", "Formula of Subscription", "Frederick’s Preface to the Heidelberg Catechism", "Guido de Brès’ Preface to the Belgic Confession", "Conclusion of the Canons of Dordrecht"] ->
-        %{curr_lesson_map | list: [create_text_map("subheading", str) | curr_lesson_map.list]}
+        %{curr_lesson_map | list: [create_text_map("subheading", str, true) | curr_lesson_map.list]}
       "Source: " <> _rest -> 
         %{curr_lesson_map | list: [create_text_map("source", str) | curr_lesson_map.list]}
       "Read: " <> _rest ->
@@ -154,24 +158,20 @@ defmodule ProcessIntermediate do
 
   defp handle_heidelberger(list) do
     {strs_left, headers} = get_hc_section_header(list, [])
-    [section | sub_section] = headers
+    [section | sub_headings] = headers
 
     {strs_after_readings, readings} = handle_hc_readings(strs_left, [])
 
     {_drop_count, lessons} = process_lessons(strs_after_readings)
 
+    section_text_map = create_text_map("heading", section)
+
     result = %{
       section: %{
-        raw: section,
-        text: [create_text_map("heading", section)]
+        text: Map.update!(section_text_map, :words, fn words ->
+          words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
+        end)
       },
-      sub_section: Enum.map(sub_section, fn text -> 
-        %{
-          raw: text,
-          text: [create_text_map("subheading", text)]
-        }
-      end),
-      raw: Enum.join(headers, " "),
       lessons: readings ++ lessons
     }
 
@@ -207,14 +207,31 @@ defmodule ProcessIntermediate do
     end
   end
 
+  defp validate_unique_hash(data) do
+    data
+    |> Enum.flat_map(fn item ->
+      list_uid = Enum.flat_map(item.lessons, fn lesson -> Enum.map(lesson.list, fn li -> Map.get(li, :uid) end) end)
+      [Map.get(item.section.text, :uid) | list_uid]
+    end)
+      |> Enum.reject(& &1 == nil)
+      |> Enum.frequencies()
+      |> Enum.filter(fn {_k, v} -> v > 1 end)
+
+  end
+
   def main(file_name) do
-    json = read_file(file_name)
+    data = read_file(file_name)
       |> split_lines()
       # |> Enum.slice(5154..5586//1)
       |> group_sections([])
       |> Enum.reject(& &1 == nil)
       |> IO.inspect(limit: :infinity)
+
+    json = data
       |> JSON.encode_to_iodata!()
+
+    # validate_unique_hash(data)
+    #   |> IO.inspect(limit: :infinity)
 
     Path.dirname(__ENV__.file) <> "/../data"
     |> Path.join("catechism.json")

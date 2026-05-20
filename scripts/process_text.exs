@@ -116,10 +116,6 @@ defmodule ProcessText do
           false -> concat_stray_lines(rest_lines, [line | result])
         end
 
-      # <<x::utf8, y::utf8, ". ", _::binary>> when x in ?0..?9 and y in ?0..?9 -> 
-      #   {drop_count, str} = concat_q(lines)
-      #   concat_stray_lines(Enum.drop(lines, drop_count), [str | result])
-
       "Q. " <> _ -> 
         {drop_count, str} = concat_q(lines)
         concat_stray_lines(Enum.drop(lines, drop_count), [str | result])
