@@ -1,3 +1,5 @@
+Mix.install([:jason])
+
 defmodule ProcessIntermediate do
   defp section_headings(), do: [
     "New Testament History",
@@ -15,6 +17,7 @@ defmodule ProcessIntermediate do
   defp split_lines(text) do
     text
     |> String.split("\n", trim: true)
+    |> Enum.map(& String.trim(&1))
   end
 
   defp title_drop_count(list) do
@@ -213,9 +216,9 @@ defmodule ProcessIntermediate do
       list_uid = Enum.flat_map(item.lessons, fn lesson -> Enum.map(lesson.list, fn li -> Map.get(li, :uid) end) end)
       [Map.get(item.section.text, :uid) | list_uid]
     end)
-      |> Enum.reject(& &1 == nil)
-      |> Enum.frequencies()
-      |> Enum.filter(fn {_k, v} -> v > 1 end)
+    |> Enum.reject(& &1 == nil)
+    |> Enum.frequencies()
+    |> Enum.filter(fn {_k, v} -> v > 1 end)
 
   end
 
@@ -228,13 +231,14 @@ defmodule ProcessIntermediate do
       |> IO.inspect(limit: :infinity)
 
     json = data
-      |> JSON.encode_to_iodata!()
+      |> Jason.encode!()
+      |> Jason.Formatter.pretty_print()
 
-    # validate_unique_hash(data)
-    #   |> IO.inspect(limit: :infinity)
+    validate_unique_hash(data)
+    |> IO.inspect(limit: :infinity)
 
     Path.dirname(__ENV__.file) <> "/../data"
-    |> Path.join("catechism.json")
+    |> Path.join("_catechism.json")
     |> File.write!(json)
   end
 end
