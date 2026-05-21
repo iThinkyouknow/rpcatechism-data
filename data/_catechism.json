@@ -9658,7 +9658,7 @@
             "type": "answer",
             "words": [
               {
-                "text": "a. a. a. Sihon fought against Israel, but Israel destroyed Sihon and took his land.",
+                "text": "a. Sihon fought against Israel, but Israel destroyed Sihon and took his land.",
                 "style": null
               }
             ]
@@ -9674,14 +9674,13 @@
             "uid": "3bff4839bc"
           },
           {
-            "type": "question",
+            "type": "answer",
             "words": [
               {
-                "text": "7. The giant Og, king of Bashan, attacked Israel.",
+                "text": "a. The giant Og, king of Bashan, attacked Israel.",
                 "style": null
               }
-            ],
-            "uid": "25d097a276"
+            ]
           },
           {
             "type": "question",
@@ -9694,23 +9693,23 @@
             "uid": "49b8ef6199"
           },
           {
-            "type": "question",
-            "words": [
-              {
-                "text": "9. Israel destroyed Og, his armies, and all his people until there were none left.",
-                "style": null
-              }
-            ],
-            "uid": "ebda390395"
-          },
-          {
             "type": "answer",
             "words": [
               {
-                "text": "How did God fight for Israel against Sihon and Og?",
+                "text": "a. Israel destroyed Og, his armies, and all his people until there were none left.",
                 "style": null
               }
             ]
+          },
+          {
+            "type": "question",
+            "words": [
+              {
+                "text": "9. How did God fight for Israel against Sihon and Og?",
+                "style": null
+              }
+            ],
+            "uid": "de853ec2e5"
           },
           {
             "type": "answer",
@@ -9722,22 +9721,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did the tribes of Rueben, Gad, and the half tribe of Manasseh ask of",
+                "text": "10. What did the tribes of Rueben, Gad, and the half tribe of Manasseh ask of Moses?",
                 "style": null
               }
-            ]
-          },
-          {
-            "type": "answer",
-            "words": [
-              {
-                "text": "Moses?",
-                "style": null
-              }
-            ]
+            ],
+            "uid": "3d0980235e"
           },
           {
             "type": "answer",
