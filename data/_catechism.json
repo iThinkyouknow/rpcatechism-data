@@ -197,7 +197,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “God saw every thing that he had made, and behold, it was very good.”— Genesis 1:31",
+                "text": "Memory verse: “God saw every thing that he had made, and behold, it was very good.”—Genesis 1:31",
                 "style": null
               }
             ]
@@ -863,7 +863,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “By faith Abel offered unto God a more excellent sacrifice than Cain.”— Hebrews 11:4",
+                "text": "Memory verse: “By faith Abel offered unto God a more excellent sacrifice than Cain.”—Hebrews 11:4",
                 "style": null
               }
             ]
@@ -2417,7 +2417,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “All the land which thou seest, to thee will I give it, and to thy seed for ever.”— Genesis 13:15",
+                "text": "Memory verse: “All the land which thou seest, to thee will I give it, and to thy seed for ever.”—Genesis 13:15",
                 "style": null
               }
             ]
@@ -2861,7 +2861,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “[Abram] believed in the LORD; and he counted it to him for righteousness.”— Genesis 15:6",
+                "text": "Memory verse: “[Abram] believed in the LORD; and he counted it to him for righteousness.”—Genesis 15:6",
                 "style": null
               }
             ]
@@ -3324,7 +3324,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “His wife looked back from behind him, and she became a pillar of salt.”— Genesis 19:26",
+                "text": "Memory verse: “His wife looked back from behind him, and she became a pillar of salt.”—Genesis 19:26",
                 "style": null
               }
             ]
@@ -5648,7 +5648,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.”— Genesis 41:41",
+                "text": "Memory verse: “Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.”—Genesis 41:41",
                 "style": null
               }
             ]
@@ -8855,7 +8855,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “[They] lusted exceedingly in the wilderness, and tempted God in the desert.”— Psalm 106:14",
+                "text": "Memory verse: “[They] lusted exceedingly in the wilderness, and tempted God in the desert.”—Psalm 106:14",
                 "style": null
               }
             ]
@@ -9318,7 +9318,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “They envied Moses also in the camp, and Aaron the saint of the LORD. The earth opened and swallowed up Dathan and covered the company of Abiram.”—Psalm 106:16–",
+                "text": "Memory verse: “They envied Moses also in the camp, and Aaron the saint of the LORD. The earth opened and swallowed up Dathan and covered the company of Abiram.”—Psalm 106:16–17",
                 "style": null
               }
             ]
@@ -10659,7 +10659,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “O give thanks unto the LORD, for he is good: for his mercy endureth for ever.”— Psalm 107:1",
+                "text": "Memory verse: “O give thanks unto the LORD, for he is good: for his mercy endureth for ever.”—Psalm 107:1",
                 "style": null
               }
             ]
@@ -12902,7 +12902,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “When Israel was a child, then I loved him, and called my son out of Egypt.”— Hosea 11:1",
+                "text": "Memory verse: “When Israel was a child, then I loved him, and called my son out of Egypt.”—Hosea 11:1",
                 "style": null
               }
             ]
@@ -16713,7 +16713,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Behold he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.”— Revelation 1:7",
+                "text": "Memory verse: “Behold he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.”—Revelation 1:7",
                 "style": null
               }
             ]
@@ -17157,7 +17157,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “It became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.”— Hebrews 2:10",
+                "text": "Memory verse: “It became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.”—Hebrews 2:10",
                 "style": null
               }
             ]
@@ -17823,7 +17823,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “I am the good shepherd: the good shepherd giveth his life for the sheep.”— John 10:11",
+                "text": "Memory verse: “I am the good shepherd: the good shepherd giveth his life for the sheep.”—John 10:11",
                 "style": null
               }
             ]
@@ -23408,19 +23408,20 @@
             "type": "answer",
             "words": [
               {
-                "text": "a. 2. 3. 4. 5. 6. 7. 8. More than forty men bound themselves with a curse, saying that they would not eat or drink until they had killed Paul.",
+                "text": "a. More than forty men bound themselves with a curse, saying that they would not eat or drink until they had killed Paul.",
                 "style": null
               }
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did those men tell the Sanhedrin to request of the chief captain, Claudius",
+                "text": "2. What did those men tell the Sanhedrin to request of the chief captain, Claudius",
                 "style": null
               }
-            ]
+            ],
+            "uid": "da6742c72e"
           },
           {
             "type": "answer",
@@ -23441,13 +23442,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did those actions of the men and the Sanhedrin show?",
+                "text": "3. What did those actions of the men and the Sanhedrin show?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "d6fe2c93f6"
           },
           {
             "type": "answer",
@@ -23459,13 +23461,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Who uncovered the plot to kill Paul?",
+                "text": "4. Who uncovered the plot to kill Paul?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "2f95bd377c"
           },
           {
             "type": "answer",
@@ -23477,13 +23480,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did Paul tell the centurion who stood by?",
+                "text": "5. What did Paul tell the centurion who stood by?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "7d6a50e5c2"
           },
           {
             "type": "answer",
@@ -23495,13 +23499,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did Claudius Lysius do when the young man revealed the plot to kill Paul?",
+                "text": "6. What did Claudius Lysius do when the young man revealed the plot to kill Paul?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "288de87e06"
           },
           {
             "type": "answer",
@@ -23513,13 +23518,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did Claudius Lysius write in a letter to the governor?",
+                "text": "7. What did Claudius Lysius write in a letter to the governor?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "8085a08a8f"
           },
           {
             "type": "answer",
@@ -23531,22 +23537,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What else did Claudius write to the governor concerning the charges against",
+                "text": "8. What else did Claudius write to the governor concerning the charges against Paul?",
                 "style": null
               }
-            ]
-          },
-          {
-            "type": "answer",
-            "words": [
-              {
-                "text": "Paul?",
-                "style": null
-              }
-            ]
+            ],
+            "uid": "74dc6eb497"
           },
           {
             "type": "answer",
@@ -26025,19 +26023,20 @@
             "type": "answer",
             "words": [
               {
-                "text": "a. 2. 3. 4. 5. 6. They did not remain faithful, and they turned and worshiped all the gods of the Canaanites.",
+                "text": "a. They did not remain faithful, and they turned and worshiped all the gods of the Canaanites.",
                 "style": null
               }
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Whom did God use to chastise Israel?",
+                "text": "2. Whom did God use to chastise Israel?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "786cd1f712"
           },
           {
             "type": "answer",
@@ -26049,13 +26048,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Whom did God raise up to save Israel?",
+                "text": "3. Whom did God raise up to save Israel?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "0ac89d026e"
           },
           {
             "type": "answer",
@@ -26067,13 +26067,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What happened to Jephthah as a young man?",
+                "text": "4. What happened to Jephthah as a young man?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "112e2bec46"
           },
           {
             "type": "answer",
@@ -26085,22 +26086,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did Jephthah tell the elders of Gilead when they wanted him to deliver",
+                "text": "5. What did Jephthah tell the elders of Gilead when they wanted him to deliver Gilead from the Ammonites?",
                 "style": null
               }
-            ]
-          },
-          {
-            "type": "answer",
-            "words": [
-              {
-                "text": "Gilead from the Ammonites?",
-                "style": null
-              }
-            ]
+            ],
+            "uid": "357fb76435"
           },
           {
             "type": "answer",
@@ -26112,13 +26105,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did Jephthah vow to God if God would deliver the Ammonites into his hands?",
+                "text": "6. What did Jephthah vow to God if God would deliver the Ammonites into his hands?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "576f2981e7"
           },
           {
             "type": "answer",
@@ -26672,7 +26666,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Be not thou far from me, O LORD: O my strength, haste thee to help me.”— Psalm 22:19",
+                "text": "Memory verse: “Be not thou far from me, O LORD: O my strength, haste thee to help me.”—Psalm 22:19",
                 "style": null
               }
             ]
@@ -29558,7 +29552,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.”— Psalm 57:1",
+                "text": "Memory verse: “Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.”—Psalm 57:1",
                 "style": null
               }
             ]
@@ -30034,11 +30028,11 @@
             "type": "question",
             "words": [
               {
-                "text": "1. While David and his men were in the wilderness of Judah, whose sheep did they 2. 3. 4. 5. protect?",
+                "text": "1. While David and his men were in the wilderness of Judah, whose sheep did they protect?",
                 "style": null
               }
             ],
-            "uid": "63668dfb6b"
+            "uid": "a63dba5d5e"
           },
           {
             "type": "answer",
@@ -30050,13 +30044,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did David ask of Nabal when he made a feast at the time of sheep shearing?",
+                "text": "2. What did David ask of Nabal when he made a feast at the time of sheep shearing?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "32c0f01430"
           },
           {
             "type": "answer",
@@ -30068,13 +30063,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "How did Nabal respond to David’s messengers?",
+                "text": "3. How did Nabal respond to David’s messengers?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "c6da1a2667"
           },
           {
             "type": "answer",
@@ -30086,13 +30082,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did David tell his men to do?",
+                "text": "4. What did David tell his men to do?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "bc34239d81"
           },
           {
             "type": "answer",
@@ -30104,28 +30101,20 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What did one of Nabal’s young men do when he heard that Nabal had insulted",
+                "text": "5. What did one of Nabal’s young men do when he heard that Nabal had insulted David?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "f5f2dc80db"
           },
           {
             "type": "answer",
             "words": [
               {
-                "text": "David?",
-                "style": null
-              }
-            ]
-          },
-          {
-            "type": "answer",
-            "words": [
-              {
-                "text": "a. a. The young man told Abigail, Nabal’s godly wife.",
+                "text": "a. The young man told Abigail, Nabal’s godly wife.",
                 "style": null
               }
             ]
@@ -30144,16 +30133,7 @@
             "type": "answer",
             "words": [
               {
-                "text": "Abigail quickly took a gift to David and his men and told David that",
-                "style": null
-              }
-            ]
-          },
-          {
-            "type": "answer",
-            "words": [
-              {
-                "text": "Nabal’s was a man of Belial and a fool.",
+                "text": "a. Abigail quickly took a gift to David and his men and told David that Nabal’s was a man of Belial and a fool.",
                 "style": null
               }
             ]
@@ -31593,7 +31573,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.”— Psalm 32:1–2",
+                "text": "Memory verse: “Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.”—Psalm 32:1–2",
                 "style": null
               }
             ]
@@ -36940,7 +36920,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Our God is in the heavens: he hath down whatsoever he hath pleased.”— Psalm 115:3",
+                "text": "Memory verse: “Our God is in the heavens: he hath down whatsoever he hath pleased.”—Psalm 115:3",
                 "style": null
               }
             ]
@@ -40781,7 +40761,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.”— John 12:40",
+                "text": "Memory verse: “He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.”—John 12:40",
                 "style": null
               }
             ]
@@ -44045,7 +44025,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: for they shall be comforted. Blessed are the meek: for they shall inherit the earth. Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Blessed are the merciful: for they shall obtain mercy. Blessed are the pure in heart: for they shall see God. Blessed are the peacemakers: for they shall be called the children of God. Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.”— Matthew 5:3–10",
+                "text": "Memory verse: “Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: for they shall be comforted. Blessed are the meek: for they shall inherit the earth. Blessed are they which do hunger and thirst after righteousness: for they shall be filled. Blessed are the merciful: for they shall obtain mercy. Blessed are the pure in heart: for they shall see God. Blessed are the peacemakers: for they shall be called the children of God. Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.”—Matthew 5:3–10",
                 "style": null
               }
             ]
@@ -44749,7 +44729,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.”— Psalm 32:1-2",
+                "text": "Memory verse: “Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.”—Psalm 32:1-2",
                 "style": null
               }
             ]
@@ -46842,7 +46822,7 @@
             "type": "memoryverse",
             "words": [
               {
-                "text": "Memory verse: “The last shall be first, and the first last: for many be called, but few chosen.”— Matthew 20:16",
+                "text": "Memory verse: “The last shall be first, and the first last: for many be called, but few chosen.”—Matthew 20:16",
                 "style": null
               }
             ]
@@ -61983,7 +61963,7 @@
             "type": "answer",
             "words": [
               {
-                "text": "a. God is faithful to his promise; Christ never leaves the elect nor forsakes them; the Holy Spirit will not depart from them; and they can never— even by their great and many sins—lose the seed of regeneration or forfeit their state of justification.",
+                "text": "a. God is faithful to his promise; Christ never leaves the elect nor forsakes them; the Holy Spirit will not depart from them; and they can never—even by their great and many sins—lose the seed of regeneration or forfeit their state of justification.",
                 "style": null
               }
             ]
@@ -62578,11 +62558,11 @@
             "type": "question",
             "words": [
               {
-                "text": "1. How does Christ give the enjoyment of their salvation in Christ to the elect in the 2. 3. 4. 5. 6. 7. church?",
+                "text": "1. How does Christ give the enjoyment of their salvation in Christ to the elect in the church?",
                 "style": null
               }
             ],
-            "uid": "ff675ea68f"
+            "uid": "67af45eef1"
           },
           {
             "type": "answer",
@@ -62594,13 +62574,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Define the means of grace.",
+                "text": "2. Define the means of grace.",
                 "style": null
               }
-            ]
+            ],
+            "uid": "f16ebca083"
           },
           {
             "type": "answer",
@@ -62612,13 +62593,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Which are the means of grace?",
+                "text": "3. Which are the means of grace?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "377c5c1e68"
           },
           {
             "type": "answer",
@@ -62630,13 +62612,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What is the preaching of the gospel?",
+                "text": "4. What is the preaching of the gospel?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "d1da8a49e2"
           },
           {
             "type": "answer",
@@ -62648,13 +62631,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "What must accompany the preaching of the gospel?",
+                "text": "5. What must accompany the preaching of the gospel?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "d5300f4a92"
           },
           {
             "type": "answer",
@@ -62666,13 +62650,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "Is the preaching a means of grace to all who hear?",
+                "text": "6. Is the preaching a means of grace to all who hear?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "203f520c6c"
           },
           {
             "type": "answer",
@@ -62684,13 +62669,14 @@
             ]
           },
           {
-            "type": "answer",
+            "type": "question",
             "words": [
               {
-                "text": "How is the preaching a means of grace to the elect?",
+                "text": "7. How is the preaching a means of grace to the elect?",
                 "style": null
               }
-            ]
+            ],
+            "uid": "b42ee0a8dc"
           },
           {
             "type": "answer",
