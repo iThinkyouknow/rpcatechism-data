@@ -191,9 +191,9 @@ defmodule ProcessIntermediate do
       x when x in ["Introductory Notes", "Formula of Subscription", "Frederick’s Preface to the Heidelberg Catechism", "Guido de Brès’ Preface to the Belgic Confession", "Conclusion of the Canons of Dordrecht"] ->
         %{curr_lesson_map | list: [create_text_map(:subheading, str, true) | curr_lesson_map.list]}
       "Source: " <> _rest -> 
-        %{curr_lesson_map | list: [create_text_map(:source, str) | curr_lesson_map.list]}
+        %{curr_lesson_map | list: [create_text_map(:source, remove_number_from_str(str)) | curr_lesson_map.list]}
       "Read: " <> _rest ->
-        %{curr_lesson_map | read: create_text_map(:read, str)}
+        %{curr_lesson_map | read: create_text_map(:read, remove_number_from_str(str))}
 
       _ -> %{curr_lesson_map | list: [create_text_map(:text, str) | curr_lesson_map.list]}
     end
