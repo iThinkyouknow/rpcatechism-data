@@ -56351,11 +56351,20 @@
               "type": "hc_question",
               "words": [
                 {
-                  "text": "55. But what doth it profit thee now that thou believest all this? A. That I am righteous in Christ, before God, and an heir of eternal life.",
+                  "text": "55. But what doth it profit thee now that thou believest all this?",
                   "style": null
                 }
               ],
-              "uid": "5ccd93345a"
+              "uid": "f77d584e47"
+            },
+            "answer": {
+              "type": "hc_answer",
+              "words": [
+                {
+                  "text": "That I am righteous in Christ, before God, and an heir of eternal life.",
+                  "style": null
+                }
+              ]
             }
           },
           {
