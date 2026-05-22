@@ -48,33 +48,79 @@ defmodule ProcessIntermediate do
 
   end
 
+  defp remove_number_from_str(nil), do: nil
   defp remove_number_from_str(str) do
-    [_head, rest] = String.split(str, ". ", parts: 2)
+    [_head, rest] = String.split(str, [": ", ". "], parts: 2)
     rest
   end
 
+  defp process_written_work_list([], result), do: result
+  defp process_written_work_list(["Written Work" | rest], result) do
+    Enum.map(rest, fn str ->
+      create_text_map(:question, remove_number_from_str(str), true)
+    end)
+  end
+
+  defp group_qa([], result), do: Enum.reverse(result)
+  defp group_qa(["a. " <> rest_str | rest], [curr_result | rest_result]) do
+    group_qa(rest, [ Map.put(curr_result, :answer, create_text_map(:answer, rest_str)) | rest_result])
+  end
+  defp group_qa(["A. " <> rest_str | rest], [curr_result | rest_result]) do
+    group_qa(rest, [Map.put(curr_result, :answer, create_text_map(:hc_answer, rest_str)) | rest_result])
+  end
+
+  defp group_qa([<<x::utf8, _rest::binary>> = str | rest], result) when x in ?0..?9 do
+    [num, question] = String.split(str, ". ", parts: 2)
+    case question do
+      "" -> group_qa(rest, [create_text_map(:unknown, str) | result])
+      _ -> group_qa(rest, [ 
+        %{
+          question: create_text_map(:question, question, true)
+        } | result])
+    end
+  end
+  defp group_qa(["Q. " <> rest_str | rest], result) do
+    group_qa(rest, [
+      %{
+        question: create_text_map(:hc_question, rest_str, true)
+      } | result])
+  end
+
+  defp put_written_work_map(lesson_map, []), do: lesson_map
+  defp put_written_work_map(lesson_map, written_work), do: Map.put(lesson_map, :written_work, written_work)
+
+  defp put_mem_verse_map(lesson_map, []), do: lesson_map
+  defp put_mem_verse_map(lesson_map, memory_verse), do: Map.put(lesson_map, :memory_verse, create_text_map(:memory_verse, remove_number_from_str(hd(memory_verse))))
+
   defp process_each_lesson(lessons) do
     lessons
-    |> Enum.map(fn [lesson_str | qa] ->
-      lesson_map = %{
-        text: create_text_map("heading", lesson_str, true),
-        read: %{},
-        list: []
-      }
-
-      Enum.reduce(qa, lesson_map, fn str, lesson_map -> 
-        case str do
-          "Read: " <> rest -> %{lesson_map | read: create_text_map("read", rest)} 
-          "Written Work" -> %{lesson_map | list: [create_text_map("subheading", str) | lesson_map.list]}
-          "a. " <> _rest -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
-          "A. " <> _rest -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
-          "Q. " <> _rest -> %{lesson_map | list: [ create_text_map("question", str, true) | lesson_map.list]}
-          <<x::utf8, _rest::binary>> when x in ?0..?9 -> %{lesson_map | list: [ create_text_map("question", str, true) | lesson_map.list]}
-          "Memory verse: " <> _rest -> %{lesson_map | list: [ create_text_map("memoryverse", str) | lesson_map.list]}
-          _ -> %{lesson_map | list: [ create_text_map("answer", str) | lesson_map.list]}
-        end
+    |> Enum.map(fn [lesson_str | lines] ->
+      {read, non_read} = Enum.split_with(lines, fn 
+        "Read: " <> _ -> true 
+        _ -> false
       end)
-      |> Map.update!(:list, & Enum.reverse(&1))
+
+      {main, written_work} = Enum.split_while(non_read, fn str -> str != "Written Work" end)
+
+      {qa, memory_verse} = Enum.split_while(main, fn 
+        "Memory verse: " <> _ -> false
+        "Memory Verse: " <> _ -> false
+        "Memory Work: " <> _ -> false
+        "Memory work: " <> _ -> false
+        _ -> true
+      end)
+
+      list = group_qa(qa, [])
+        |> IO.inspect(label: "qa")
+
+
+      lesson_map = %{
+        text: create_text_map(:heading, lesson_str, true),
+        read: create_text_map(:read, remove_number_from_str(hd(read))),
+        list: list
+      }
+        |> put_written_work_map(process_written_work_list(written_work, nil))
+        |> put_mem_verse_map(memory_verse)
     end)
   end
 
@@ -108,7 +154,7 @@ defmodule ProcessIntermediate do
 
     {lesson_drop_count, lesson_list} = process_lessons(list_after_section_heading)
 
-    section_text_map = create_text_map("heading", section)
+    section_text_map = create_text_map(:heading, section)
 
     result = %{
       section: %{
@@ -133,7 +179,7 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings(["Introduction to the Belgic Confession, Canons of Dordtrecht, and Heidelberg Catechism" = str | rest], result) do
     lesson_map = %{
       lesson: str,
-      text: create_text_map("heading", str, true),
+      text: create_text_map(:heading, str, true),
       read: %{},
       list: []
     }
@@ -143,13 +189,13 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings([str | rest], [curr_lesson_map | rest_result]) do
     reading_map = case str do 
       x when x in ["Introductory Notes", "Formula of Subscription", "Frederick’s Preface to the Heidelberg Catechism", "Guido de Brès’ Preface to the Belgic Confession", "Conclusion of the Canons of Dordrecht"] ->
-        %{curr_lesson_map | list: [create_text_map("subheading", str, true) | curr_lesson_map.list]}
+        %{curr_lesson_map | list: [create_text_map(:subheading, str, true) | curr_lesson_map.list]}
       "Source: " <> _rest -> 
-        %{curr_lesson_map | list: [create_text_map("source", str) | curr_lesson_map.list]}
+        %{curr_lesson_map | list: [create_text_map(:source, str) | curr_lesson_map.list]}
       "Read: " <> _rest ->
-        %{curr_lesson_map | read: create_text_map("read", str)}
+        %{curr_lesson_map | read: create_text_map(:read, str)}
 
-      _ -> %{curr_lesson_map | list: [create_text_map("text", str) | curr_lesson_map.list]}
+      _ -> %{curr_lesson_map | list: [create_text_map(:text, str) | curr_lesson_map.list]}
     end
 
 
@@ -167,7 +213,7 @@ defmodule ProcessIntermediate do
 
     {_drop_count, lessons} = process_lessons(strs_after_readings)
 
-    section_text_map = create_text_map("heading", section)
+    section_text_map = create_text_map(:heading, section)
 
     result = %{
       section: %{
