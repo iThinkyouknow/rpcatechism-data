@@ -29,7 +29,13 @@ defmodule ProcessIntermediate do
     end)
   end
 
-  defp create_text_map(type, text, should_hash \\ false, style \\ nil) do
+  defp create_md5(str) do
+    :crypto.hash(:md5, str)
+    |> Base.encode16(case: :lower)
+    |> String.slice(0, 10)
+  end
+
+  defp create_text_map(type, text, style \\ nil) do
 
     text_map = %{
       type: type,
@@ -40,33 +46,39 @@ defmodule ProcessIntermediate do
         }
       ]
     }
-
-    case should_hash do
-      true -> Map.put_new(text_map, :uid, :crypto.hash(:md5, text) |> Base.encode16(case: :lower) |> String.slice(0, 10))
-      false -> text_map
-    end
-
   end
 
   defp remove_number_from_str(nil), do: nil
   defp remove_number_from_str(str) do
-    [_head, rest] = String.split(str, [": ", ". "], parts: 2)
-    rest
+    case String.split(str, [": ", ". "], parts: 2) do
+    [_head, rest] -> rest
+    [head] -> head
+    end
   end
 
   defp process_written_work_list([], result), do: result
   defp process_written_work_list(["Written Work" | rest], result) do
     Enum.map(rest, fn str ->
-      create_text_map(:question, remove_number_from_str(str), true)
+      str_content = remove_number_from_str(str)
+      %{
+        question: create_text_map(:question, str_content),
+        uid: create_md5(str_content)
+      }
     end)
   end
 
   defp group_qa([], result), do: Enum.reverse(result)
   defp group_qa(["a. " <> rest_str | rest], [curr_result | rest_result]) do
-    group_qa(rest, [ Map.put(curr_result, :answer, create_text_map(:answer, rest_str)) | rest_result])
+    group_qa(rest, [ 
+      Map.put(curr_result, :answer, create_text_map(:answer, rest_str))
+        |> Map.put(:uid, create_md5(hd(curr_result.question.words).text <> rest_str))
+        | rest_result])
   end
   defp group_qa(["A. " <> rest_str | rest], [curr_result | rest_result]) do
-    group_qa(rest, [Map.put(curr_result, :answer, create_text_map(:hc_answer, rest_str)) | rest_result])
+    group_qa(rest, [
+      Map.put(curr_result, :answer, create_text_map(:hc_answer, rest_str))
+        |> Map.put(:uid, create_md5(hd(curr_result.question.words).text <> rest_str))
+        | rest_result ])
   end
 
   defp group_qa([<<x::utf8, _rest::binary>> = str | rest], result) when x in ?0..?9 do
@@ -75,14 +87,14 @@ defmodule ProcessIntermediate do
       "" -> group_qa(rest, [create_text_map(:unknown, str) | result])
       _ -> group_qa(rest, [ 
         %{
-          question: create_text_map(:question, question, true)
+          question: create_text_map(:question, question)
         } | result])
     end
   end
   defp group_qa(["Q. " <> rest_str | rest], result) do
     group_qa(rest, [
       %{
-        question: create_text_map(:hc_question, rest_str, true)
+        question: create_text_map(:hc_question, rest_str)
       } | result])
   end
 
@@ -111,11 +123,13 @@ defmodule ProcessIntermediate do
       end)
 
       list = group_qa(qa, [])
-        |> IO.inspect(label: "qa")
+
+      numberless_lesson_str = remove_number_from_str(lesson_str)
 
 
       lesson_map = %{
-        text: create_text_map(:heading, lesson_str, true),
+        text: create_text_map(:heading, numberless_lesson_str),
+        uid: create_md5(numberless_lesson_str),
         read: create_text_map(:read, remove_number_from_str(hd(read))),
         list: list
       }
@@ -157,11 +171,10 @@ defmodule ProcessIntermediate do
     section_text_map = create_text_map(:heading, section)
 
     result = %{
-      section: %{
-        text: Map.update!(section_text_map, :words, fn words ->
-          words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
-        end)
-      },
+      uid: create_md5(title),
+      text: Map.update!(section_text_map, :words, fn words ->
+        words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
+      end),
       lessons: lesson_list
     }
 
@@ -179,9 +192,11 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings(["Introduction to the Belgic Confession, Canons of Dordtrecht, and Heidelberg Catechism" = str | rest], result) do
     lesson_map = %{
       lesson: str,
-      text: create_text_map(:heading, str, true),
+      text: create_text_map(:heading, str),
       read: %{},
-      list: []
+      list: [],
+      uid: create_md5(str)
+
     }
 
     handle_hc_readings(rest, [lesson_map | result])
@@ -189,7 +204,7 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings([str | rest], [curr_lesson_map | rest_result]) do
     reading_map = case str do 
       x when x in ["Introductory Notes", "Formula of Subscription", "Frederick’s Preface to the Heidelberg Catechism", "Guido de Brès’ Preface to the Belgic Confession", "Conclusion of the Canons of Dordrecht"] ->
-        %{curr_lesson_map | list: [create_text_map(:subheading, str, true) | curr_lesson_map.list]}
+        %{curr_lesson_map | list: [create_text_map(:subheading, str) | curr_lesson_map.list]}
       "Source: " <> _rest -> 
         %{curr_lesson_map | list: [create_text_map(:source, remove_number_from_str(str)) | curr_lesson_map.list]}
       "Read: " <> _rest ->
@@ -216,12 +231,11 @@ defmodule ProcessIntermediate do
     section_text_map = create_text_map(:heading, section)
 
     result = %{
-      section: %{
-        text: Map.update!(section_text_map, :words, fn words ->
-          words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
-        end)
-      },
-      lessons: readings ++ lessons
+      text: Map.update!(section_text_map, :words, fn words ->
+        words ++ Enum.map(sub_headings, fn text -> %{text: text, style: "subheading"} end)
+      end),
+      lessons: readings ++ lessons,
+      uid: create_md5(Enum.join(headers, " "))
     }
 
     {strs_after_readings, result}
