@@ -36,8 +36,7 @@ defmodule ProcessIntermediate do
   end
 
   defp create_text_map(type, text, style \\ nil) do
-
-    text_map = %{
+    %{
       type: type,
       words: [
         %{
@@ -57,7 +56,7 @@ defmodule ProcessIntermediate do
   end
 
   defp process_written_work_list([], result), do: result
-  defp process_written_work_list(["Written Work" | rest], result) do
+  defp process_written_work_list(["Written Work" | rest], _result) do
     Enum.map(rest, fn str ->
       str_content = remove_number_from_str(str)
       %{
@@ -82,7 +81,7 @@ defmodule ProcessIntermediate do
   end
 
   defp group_qa([<<x::utf8, _rest::binary>> = str | rest], result) when x in ?0..?9 do
-    [num, question] = String.split(str, ". ", parts: 2)
+    [_num, question] = String.split(str, ". ", parts: 2)
     case question do
       "" -> group_qa(rest, [create_text_map(:unknown, str) | result])
       _ -> group_qa(rest, [ 
@@ -99,6 +98,7 @@ defmodule ProcessIntermediate do
   end
 
   defp put_written_work_map(lesson_map, []), do: lesson_map
+  defp put_written_work_map(lesson_map, nil), do: lesson_map
   defp put_written_work_map(lesson_map, written_work), do: Map.put(lesson_map, :written_work, written_work)
 
   defp put_mem_verse_map(lesson_map, []), do: lesson_map
@@ -127,7 +127,7 @@ defmodule ProcessIntermediate do
       numberless_lesson_str = remove_number_from_str(lesson_str)
 
 
-      lesson_map = %{
+      %{
         text: create_text_map(:heading, numberless_lesson_str),
         uid: create_md5(numberless_lesson_str),
         read: create_text_map(:read, remove_number_from_str(hd(read))),
@@ -191,12 +191,10 @@ defmodule ProcessIntermediate do
   defp handle_hc_readings(["Heidelberg Catechism Lord’s Day 1" | _rest_str] = list, result), do: {list, result |> Enum.map(& %{&1 | list: Enum.reverse(&1.list)}) |> Enum.reverse()}
   defp handle_hc_readings(["Introduction to the Belgic Confession, Canons of Dordtrecht, and Heidelberg Catechism" = str | rest], result) do
     lesson_map = %{
-      lesson: str,
       text: create_text_map(:heading, str),
       read: %{},
       list: [],
       uid: create_md5(str)
-
     }
 
     handle_hc_readings(rest, [lesson_map | result])
@@ -225,7 +223,6 @@ defmodule ProcessIntermediate do
     [section | sub_headings] = headers
 
     {strs_after_readings, readings} = handle_hc_readings(strs_left, [])
-
     {_drop_count, lessons} = process_lessons(strs_after_readings)
 
     section_text_map = create_text_map(:heading, section)
