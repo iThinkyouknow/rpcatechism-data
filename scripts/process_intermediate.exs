@@ -121,7 +121,7 @@ defmodule ProcessIntermediate do
 
     %{
       type: :read,
-      text: list
+      words: list
     }
 
   end
