@@ -234,7 +234,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1",
               "style": "bible_link"
@@ -484,7 +484,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 2",
               "style": "bible_link"
@@ -726,7 +726,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 3",
               "style": "bible_link"
@@ -968,7 +968,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 4:1–16, 25",
               "style": "bible_link"
@@ -1218,7 +1218,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 4:16–24",
               "style": "bible_link"
@@ -1472,7 +1472,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 6:9–22",
               "style": "bible_link"
@@ -1726,7 +1726,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 9",
               "style": "bible_link"
@@ -1972,7 +1972,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 11",
               "style": "bible_link"
@@ -2218,7 +2218,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Job 1",
               "style": "bible_link"
@@ -2460,7 +2460,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 11:27–12:9",
               "style": "bible_link"
@@ -2706,7 +2706,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 13",
               "style": "bible_link"
@@ -2948,7 +2948,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 14",
               "style": "bible_link"
@@ -3194,7 +3194,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 15",
               "style": "bible_link"
@@ -3440,7 +3440,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 16–17",
               "style": "bible_link"
@@ -3703,7 +3703,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 18–19",
               "style": "bible_link"
@@ -3945,7 +3945,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 20–21",
               "style": "bible_link"
@@ -4191,7 +4191,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 22",
               "style": "bible_link"
@@ -4437,7 +4437,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 23–24",
               "style": "bible_link"
@@ -4700,7 +4700,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 25:19–34",
               "style": "bible_link"
@@ -4950,7 +4950,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 27:41–46",
               "style": "bible_link"
@@ -5196,7 +5196,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 29–30:24",
               "style": "bible_link"
@@ -5459,7 +5459,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 30:25–31:55",
               "style": "bible_link"
@@ -5722,7 +5722,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 32",
               "style": "bible_link"
@@ -6010,7 +6010,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 35:16–20",
               "style": "bible_link"
@@ -6260,7 +6260,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 39:7–41",
               "style": "bible_link"
@@ -6502,7 +6502,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 42–45:1–15",
               "style": "bible_link"
@@ -6748,7 +6748,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 45:9–28",
               "style": "bible_link"
@@ -7041,7 +7041,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 1",
               "style": "bible_link"
@@ -7287,7 +7287,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 2",
               "style": "bible_link"
@@ -7558,7 +7558,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 2:15–4:31",
               "style": "bible_link"
@@ -7804,7 +7804,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 4:29–7:25",
               "style": "bible_link"
@@ -8067,7 +8067,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 8:1–10:29",
               "style": "bible_link"
@@ -8309,7 +8309,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 11–12",
               "style": "bible_link"
@@ -8555,7 +8555,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 14–15:21",
               "style": "bible_link"
@@ -8834,7 +8834,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 15:23–Exodus 16",
               "style": "bible_link"
@@ -9076,7 +9076,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 17",
               "style": "bible_link"
@@ -9334,7 +9334,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 19–20",
               "style": "bible_link"
@@ -9588,7 +9588,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 32–33",
               "style": "bible_link"
@@ -9830,7 +9830,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 10:11–12, 33–36",
               "style": "bible_link"
@@ -10080,7 +10080,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 13–14",
               "style": "bible_link"
@@ -10347,7 +10347,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 16–17",
               "style": "bible_link"
@@ -10597,7 +10597,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 20–21",
               "style": "bible_link"
@@ -10855,7 +10855,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 20:14–21",
               "style": "bible_link"
@@ -11121,7 +11121,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 22–24",
               "style": "bible_link"
@@ -11383,7 +11383,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Numbers 25",
               "style": "bible_link"
@@ -11653,7 +11653,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 2",
               "style": "bible_link"
@@ -11907,7 +11907,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 3–5",
               "style": "bible_link"
@@ -12149,7 +12149,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 6",
               "style": "bible_link"
@@ -12395,7 +12395,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 7–8",
               "style": "bible_link"
@@ -12649,7 +12649,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 9",
               "style": "bible_link"
@@ -12891,7 +12891,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 10",
               "style": "bible_link"
@@ -13145,7 +13145,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 11–12",
               "style": "bible_link"
@@ -13403,7 +13403,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 13–21",
               "style": "bible_link"
@@ -13645,7 +13645,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Joshua 22",
               "style": "bible_link"
@@ -13909,7 +13909,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Malachi",
               "style": "bible_link"
@@ -14155,7 +14155,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 1–2",
               "style": "bible_link"
@@ -14401,7 +14401,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 2",
               "style": "bible_link"
@@ -14647,7 +14647,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 3",
               "style": "bible_link"
@@ -14934,7 +14934,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 3:13–4:11",
               "style": "bible_link"
@@ -15192,7 +15192,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 4:18–22",
               "style": "bible_link"
@@ -15462,7 +15462,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 1:23–25",
               "style": "bible_link"
@@ -15716,7 +15716,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isaiah 61:1–2",
               "style": "bible_link"
@@ -15978,7 +15978,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 8:16–-27",
               "style": "bible_link"
@@ -16236,7 +16236,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 8:28–34",
               "style": "bible_link"
@@ -16486,7 +16486,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 9:10–38",
               "style": "bible_link"
@@ -16736,7 +16736,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 13:1–23",
               "style": "bible_link"
@@ -16986,7 +16986,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 11:20–24",
               "style": "bible_link"
@@ -17240,7 +17240,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 16:21–17:9",
               "style": "bible_link"
@@ -17490,7 +17490,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 17:14–21",
               "style": "bible_link"
@@ -17740,7 +17740,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Mark 10",
               "style": "bible_link"
@@ -17990,7 +17990,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 11",
               "style": "bible_link"
@@ -18236,7 +18236,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 20:30–34",
               "style": "bible_link"
@@ -18498,7 +18498,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 21:1–16",
               "style": "bible_link"
@@ -18752,7 +18752,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 24",
               "style": "bible_link"
@@ -19002,7 +19002,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:1–29",
               "style": "bible_link"
@@ -19252,7 +19252,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:30–56",
               "style": "bible_link"
@@ -19506,7 +19506,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:57–27:28",
               "style": "bible_link"
@@ -19764,7 +19764,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 27:32–44",
               "style": "bible_link"
@@ -20018,7 +20018,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 27:45–66",
               "style": "bible_link"
@@ -20272,7 +20272,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 27:62–66",
               "style": "bible_link"
@@ -20530,7 +20530,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 28:16–20",
               "style": "bible_link"
@@ -20835,7 +20835,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 1",
               "style": "bible_link"
@@ -21098,7 +21098,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 2",
               "style": "bible_link"
@@ -21340,7 +21340,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 3–4:31",
               "style": "bible_link"
@@ -21582,7 +21582,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 4:31–5:11",
               "style": "bible_link"
@@ -21824,7 +21824,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 5:12–42",
               "style": "bible_link"
@@ -22108,7 +22108,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 6–7",
               "style": "bible_link"
@@ -22392,7 +22392,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 7:58–60",
               "style": "bible_link"
@@ -22683,7 +22683,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 8",
               "style": "bible_link"
@@ -22946,7 +22946,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 9:32–11:18",
               "style": "bible_link"
@@ -23209,7 +23209,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 12",
               "style": "bible_link"
@@ -23493,7 +23493,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 12:25-Acts 13",
               "style": "bible_link"
@@ -23735,7 +23735,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 14",
               "style": "bible_link"
@@ -24002,7 +24002,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 15",
               "style": "bible_link"
@@ -24244,7 +24244,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 15:36–16:15",
               "style": "bible_link"
@@ -24511,7 +24511,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 16:16–40",
               "style": "bible_link"
@@ -24774,7 +24774,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 16:35–40",
               "style": "bible_link"
@@ -25024,7 +25024,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 18:23–19:20",
               "style": "bible_link"
@@ -25287,7 +25287,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 18:21–28",
               "style": "bible_link"
@@ -25554,7 +25554,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 20–21:17",
               "style": "bible_link"
@@ -25817,7 +25817,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 21:15–Acts 22",
               "style": "bible_link"
@@ -26080,7 +26080,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 22:24–23:11",
               "style": "bible_link"
@@ -26322,7 +26322,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 23:12–35",
               "style": "bible_link"
@@ -26585,7 +26585,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 24",
               "style": "bible_link"
@@ -26848,7 +26848,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 24:27–26:32",
               "style": "bible_link"
@@ -27111,7 +27111,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Act 26:30–32",
               "style": "bible_link"
@@ -27378,7 +27378,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 28:1–11",
               "style": "bible_link"
@@ -27662,7 +27662,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 28:11–31",
               "style": "bible_link"
@@ -27926,7 +27926,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 1–2",
               "style": "bible_link"
@@ -28176,7 +28176,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 3",
               "style": "bible_link"
@@ -28418,7 +28418,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 4–5",
               "style": "bible_link"
@@ -28664,7 +28664,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 6",
               "style": "bible_link"
@@ -28906,7 +28906,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 7–8",
               "style": "bible_link"
@@ -29156,7 +29156,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 10–12",
               "style": "bible_link"
@@ -29419,7 +29419,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 13–16:3",
               "style": "bible_link"
@@ -29665,7 +29665,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Judges 16",
               "style": "bible_link"
@@ -29907,7 +29907,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ruth 1–4",
               "style": "bible_link"
@@ -30149,7 +30149,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 1–3",
               "style": "bible_link"
@@ -30391,7 +30391,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 4–7",
               "style": "bible_link"
@@ -30633,7 +30633,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 8–10",
               "style": "bible_link"
@@ -30875,7 +30875,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 11–13",
               "style": "bible_link"
@@ -31117,7 +31117,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 14",
               "style": "bible_link"
@@ -31359,7 +31359,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 17:8–16",
               "style": "bible_link"
@@ -31605,7 +31605,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 16",
               "style": "bible_link"
@@ -31851,7 +31851,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 17",
               "style": "bible_link"
@@ -32097,7 +32097,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 18–19",
               "style": "bible_link"
@@ -32343,7 +32343,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 19–20",
               "style": "bible_link"
@@ -32585,7 +32585,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 21",
               "style": "bible_link"
@@ -32835,7 +32835,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 21:10–15",
               "style": "bible_link"
@@ -33089,7 +33089,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 23:1–18",
               "style": "bible_link"
@@ -33331,7 +33331,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 23:19–29",
               "style": "bible_link"
@@ -33589,7 +33589,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 25",
               "style": "bible_link"
@@ -33831,7 +33831,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 26–27",
               "style": "bible_link"
@@ -34077,7 +34077,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Samuel 28–31",
               "style": "bible_link"
@@ -34327,7 +34327,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 2–3",
               "style": "bible_link"
@@ -34595,7 +34595,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 4–6",
               "style": "bible_link"
@@ -34849,7 +34849,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 15:18–21",
               "style": "bible_link"
@@ -35119,7 +35119,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 11:1–12:25",
               "style": "bible_link"
@@ -35369,7 +35369,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 13–19",
               "style": "bible_link"
@@ -35619,7 +35619,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 24",
               "style": "bible_link"
@@ -35865,7 +35865,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 7",
               "style": "bible_link"
@@ -36123,7 +36123,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 1–3",
               "style": "bible_link"
@@ -36381,7 +36381,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 3–4",
               "style": "bible_link"
@@ -36647,7 +36647,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 11",
               "style": "bible_link"
@@ -36889,7 +36889,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 12",
               "style": "bible_link"
@@ -37135,7 +37135,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 14:21–31",
               "style": "bible_link"
@@ -37385,7 +37385,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 12:25–33",
               "style": "bible_link"
@@ -37643,7 +37643,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 15:9–24",
               "style": "bible_link"
@@ -37889,7 +37889,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 22:1–38",
               "style": "bible_link"
@@ -38143,7 +38143,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 17–18",
               "style": "bible_link"
@@ -38385,7 +38385,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 19",
               "style": "bible_link"
@@ -38631,7 +38631,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 2–5",
               "style": "bible_link"
@@ -38873,7 +38873,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 6–8",
               "style": "bible_link"
@@ -39119,7 +39119,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 9–10",
               "style": "bible_link"
@@ -39361,7 +39361,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 8:16–29",
               "style": "bible_link"
@@ -39636,7 +39636,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 14:1–22",
               "style": "bible_link"
@@ -39890,7 +39890,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 18–20",
               "style": "bible_link"
@@ -40144,7 +40144,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Kings 13",
               "style": "bible_link"
@@ -40394,7 +40394,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Kings 23:29–37",
               "style": "bible_link"
@@ -40644,7 +40644,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Daniel 1–6",
               "style": "bible_link"
@@ -40886,7 +40886,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ezra and Nehemiah",
               "style": "bible_link"
@@ -41128,7 +41128,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Esther",
               "style": "bible_link"
@@ -41392,7 +41392,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 1:1–18",
               "style": "bible_link"
@@ -41634,7 +41634,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 2:1–11",
               "style": "bible_link"
@@ -41876,7 +41876,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 2:12–25",
               "style": "bible_link"
@@ -42139,7 +42139,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 3:1–21",
               "style": "bible_link"
@@ -42402,7 +42402,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 4:1–42",
               "style": "bible_link"
@@ -42665,7 +42665,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 4:44–54",
               "style": "bible_link"
@@ -42949,7 +42949,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 5",
               "style": "bible_link"
@@ -43212,7 +43212,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 14:13–21",
               "style": "bible_link"
@@ -43487,7 +43487,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 7",
               "style": "bible_link"
@@ -43750,7 +43750,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 8:1–11",
               "style": "bible_link"
@@ -44013,7 +44013,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 8:12–20",
               "style": "bible_link"
@@ -44276,7 +44276,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 8:30–59",
               "style": "bible_link"
@@ -44560,7 +44560,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 9",
               "style": "bible_link"
@@ -44823,7 +44823,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 10",
               "style": "bible_link"
@@ -45065,7 +45065,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 11",
               "style": "bible_link"
@@ -45328,7 +45328,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 12",
               "style": "bible_link"
@@ -45570,7 +45570,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 13",
               "style": "bible_link"
@@ -45833,7 +45833,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 14:1–14",
               "style": "bible_link"
@@ -46096,7 +46096,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 15",
               "style": "bible_link"
@@ -46338,7 +46338,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 14:15–31",
               "style": "bible_link"
@@ -46609,7 +46609,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 17",
               "style": "bible_link"
@@ -46851,7 +46851,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 18:1–14",
               "style": "bible_link"
@@ -47114,7 +47114,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 18:14–27",
               "style": "bible_link"
@@ -47356,7 +47356,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 18:28–19:16",
               "style": "bible_link"
@@ -47619,7 +47619,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 19:17–42",
               "style": "bible_link"
@@ -47882,7 +47882,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 20",
               "style": "bible_link"
@@ -48124,7 +48124,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 21",
               "style": "bible_link"
@@ -48409,7 +48409,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 7",
               "style": "bible_link"
@@ -48663,7 +48663,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 3:1–17",
               "style": "bible_link"
@@ -48917,7 +48917,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 5–7",
               "style": "bible_link"
@@ -49188,7 +49188,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 5:17–48",
               "style": "bible_link"
@@ -49451,7 +49451,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 6:19–7:29",
               "style": "bible_link"
@@ -49693,7 +49693,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 9:1–8",
               "style": "bible_link"
@@ -49943,7 +49943,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 6:5–15",
               "style": "bible_link"
@@ -50189,7 +50189,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 10",
               "style": "bible_link"
@@ -50460,7 +50460,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 9:34",
               "style": "bible_link"
@@ -50739,7 +50739,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 12:1–21",
               "style": "bible_link"
@@ -51010,7 +51010,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 13:1–23",
               "style": "bible_link"
@@ -51260,7 +51260,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 18",
               "style": "bible_link"
@@ -51502,7 +51502,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 19:1–12",
               "style": "bible_link"
@@ -51773,7 +51773,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 19:16–26",
               "style": "bible_link"
@@ -52044,7 +52044,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 19:27–20:16",
               "style": "bible_link"
@@ -52294,7 +52294,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 22:1–14",
               "style": "bible_link"
@@ -52540,7 +52540,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 22:15–45",
               "style": "bible_link"
@@ -52811,7 +52811,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 24",
               "style": "bible_link"
@@ -53082,7 +53082,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 25:31–46",
               "style": "bible_link"
@@ -53345,7 +53345,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:1–30",
               "style": "bible_link"
@@ -53616,7 +53616,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:36–56",
               "style": "bible_link"
@@ -53870,7 +53870,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:57–75",
               "style": "bible_link"
@@ -54124,7 +54124,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 27:1–31",
               "style": "bible_link"
@@ -54378,7 +54378,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 28:32–60",
               "style": "bible_link"
@@ -54632,7 +54632,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 28",
               "style": "bible_link"
@@ -54890,7 +54890,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Mark 16:19–20",
               "style": "bible_link"
@@ -55161,7 +55161,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Revelation 5",
               "style": "bible_link"
@@ -55625,7 +55625,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "The Formula of Subscription",
               "style": "creeds_link"
@@ -55706,7 +55706,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 10:30",
               "style": "bible_link"
@@ -55868,7 +55868,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Luke 10:27",
               "style": "bible_link"
@@ -55970,7 +55970,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 1:26–27, 31",
               "style": "bible_link"
@@ -56108,7 +56108,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 2:17",
               "style": "bible_link"
@@ -56275,7 +56275,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ex. 20:5",
               "style": "creeds_link"
@@ -56434,7 +56434,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 3:15",
               "style": "bible_link"
@@ -56621,7 +56621,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isa. 53:11",
               "style": "bible_link"
@@ -56770,7 +56770,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 1",
               "style": "bible_link"
@@ -56846,7 +56846,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 1–2",
               "style": "bible_link"
@@ -56971,7 +56971,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 8:10",
               "style": "bible_link"
@@ -57100,7 +57100,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isa. 9:6–7",
               "style": "bible_link"
@@ -57189,7 +57189,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 18:18",
               "style": "bible_link"
@@ -57338,7 +57338,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 1:1",
               "style": "bible_link"
@@ -57423,7 +57423,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 2:7",
               "style": "creeds_link"
@@ -57573,7 +57573,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 21:23",
               "style": "bible_link"
@@ -57733,7 +57733,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 2:17",
               "style": "bible_link"
@@ -57817,7 +57817,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Rom. 6:4",
               "style": "bible_link"
@@ -57936,7 +57936,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 24:30",
               "style": "bible_link"
@@ -58098,7 +58098,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 2:9",
               "style": "creeds_link"
@@ -58186,7 +58186,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 1:2",
               "style": "bible_link"
@@ -58308,7 +58308,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 26:4",
               "style": "bible_link"
@@ -58441,7 +58441,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Job 19:25–26",
               "style": "bible_link"
@@ -58555,7 +58555,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 16:2",
               "style": "creeds_link"
@@ -58697,7 +58697,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 27:26",
               "style": "bible_link"
@@ -58824,7 +58824,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 17:11",
               "style": "bible_link"
@@ -58962,7 +58962,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 3:11",
               "style": "bible_link"
@@ -59097,7 +59097,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 10:30",
               "style": "bible_link"
@@ -59259,7 +59259,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 17:7, 14",
               "style": "bible_link"
@@ -59409,7 +59409,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ex. 13:9",
               "style": "creeds_link"
@@ -59530,7 +59530,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 17:10–11, 14",
               "style": "bible_link"
@@ -59660,7 +59660,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 50:15–16, 22",
               "style": "creeds_link"
@@ -59862,7 +59862,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 16:19",
               "style": "bible_link"
@@ -59979,7 +59979,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matt. 5:16",
               "style": "bible_link"
@@ -60126,7 +60126,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 12:32",
               "style": "bible_link"
@@ -60305,7 +60305,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ex. 34:28–29",
               "style": "creeds_link"
@@ -60499,7 +60499,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ex. 23:24",
               "style": "creeds_link"
@@ -60620,7 +60620,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Lev. 5:1, 4",
               "style": "bible_link"
@@ -60713,7 +60713,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 21:24",
               "style": "bible_link"
@@ -60793,7 +60793,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Lev. 23:3",
               "style": "bible_link"
@@ -60881,7 +60881,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Prov. 23:22",
               "style": "bible_link"
@@ -60991,7 +60991,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Gen. 9:6",
               "style": "bible_link"
@@ -61124,7 +61124,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Lev. 18:27",
               "style": "bible_link"
@@ -61221,7 +61221,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 25:13",
               "style": "bible_link"
@@ -61309,7 +61309,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Lev. 19:11",
               "style": "bible_link"
@@ -61435,7 +61435,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Rom. 3:20",
               "style": "bible_link"
@@ -61566,7 +61566,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Chron. 20:12",
               "style": "creeds_link"
@@ -61699,7 +61699,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isa. 49:15",
               "style": "bible_link"
@@ -61767,7 +61767,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 71:8",
               "style": "creeds_link"
@@ -61847,7 +61847,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 51:18",
               "style": "creeds_link"
@@ -61915,7 +61915,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 103:20",
               "style": "creeds_link"
@@ -61983,7 +61983,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deut. 8:3",
               "style": "bible_link"
@@ -62059,7 +62059,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 51:1",
               "style": "creeds_link"
@@ -62153,7 +62153,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ps. 103:14",
               "style": "creeds_link"
@@ -62417,7 +62417,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Jeremiah 9:23–24",
               "style": "bible_link"
@@ -62653,7 +62653,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Romans 1:18–32",
               "style": "bible_link"
@@ -62877,7 +62877,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 5:39",
               "style": "bible_link"
@@ -63113,7 +63113,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Timothy 3:15–17",
               "style": "bible_link"
@@ -63345,7 +63345,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1:1–3, 26–27",
               "style": "bible_link"
@@ -63581,7 +63581,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1:1",
               "style": "bible_link"
@@ -63825,7 +63825,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deuteronomy 6:4",
               "style": "bible_link"
@@ -64081,7 +64081,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 102:26–27",
               "style": "bible_link"
@@ -64313,7 +64313,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 6:6",
               "style": "bible_link"
@@ -64545,7 +64545,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deuteronomy 32:4",
               "style": "bible_link"
@@ -64777,7 +64777,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 5:4–5",
               "style": "bible_link"
@@ -65041,7 +65041,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Proverbs 16:4",
               "style": "bible_link"
@@ -65289,7 +65289,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1",
               "style": "bible_link"
@@ -65525,7 +65525,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 73:3–20",
               "style": "bible_link"
@@ -65769,7 +65769,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "2 Samuel 16:10",
               "style": "bible_link"
@@ -66033,7 +66033,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1–2",
               "style": "bible_link"
@@ -66273,7 +66273,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 1–2",
               "style": "bible_link"
@@ -66501,7 +66501,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 3",
               "style": "bible_link"
@@ -66749,7 +66749,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 3",
               "style": "bible_link"
@@ -66993,7 +66993,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "1 Corinthians 1:17–31",
               "style": "bible_link"
@@ -67229,7 +67229,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 3:15",
               "style": "bible_link"
@@ -67509,7 +67509,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 121:4",
               "style": "bible_link"
@@ -67801,7 +67801,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 1:1–18",
               "style": "bible_link"
@@ -68053,7 +68053,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 14:18–24",
               "style": "bible_link"
@@ -68305,7 +68305,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Deuteronomy 18:15–18",
               "style": "bible_link"
@@ -68613,7 +68613,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 1",
               "style": "bible_link"
@@ -68861,7 +68861,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isaiah 53:10",
               "style": "bible_link"
@@ -69147,7 +69147,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 14:2",
               "style": "bible_link"
@@ -69399,7 +69399,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ezekiel 1",
               "style": "bible_link"
@@ -69643,7 +69643,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 3:15",
               "style": "bible_link"
@@ -69903,7 +69903,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 15:1–5",
               "style": "bible_link"
@@ -70163,7 +70163,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 143:10–11",
               "style": "bible_link"
@@ -70463,7 +70463,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Ezekiel 37:1–10",
               "style": "bible_link"
@@ -70711,7 +70711,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 13:3–23",
               "style": "bible_link"
@@ -70959,7 +70959,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 3:16, Romans 8:29–30",
               "style": "bible_link"
@@ -71203,7 +71203,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Genesis 15:6",
               "style": "bible_link"
@@ -71471,7 +71471,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 139:21–24",
               "style": "bible_link"
@@ -71731,7 +71731,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Jeremiah 31:18–19",
               "style": "bible_link"
@@ -71979,7 +71979,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Romans 8:21, 29–30",
               "style": "bible_link"
@@ -72248,7 +72248,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Exodus 19:5–6",
               "style": "bible_link"
@@ -72553,7 +72553,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isaiah 43:1–7",
               "style": "bible_link"
@@ -72797,7 +72797,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Acts 2:38–39",
               "style": "bible_link"
@@ -73074,7 +73074,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:26–29",
               "style": "bible_link"
@@ -73318,7 +73318,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Romans 9:6",
               "style": "bible_link"
@@ -73554,7 +73554,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 26:26–28",
               "style": "bible_link"
@@ -73802,7 +73802,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 16:18–19",
               "style": "bible_link"
@@ -74050,7 +74050,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "John 18:36",
               "style": "bible_link"
@@ -74298,7 +74298,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Psalm 17:15",
               "style": "bible_link"
@@ -74546,7 +74546,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Matthew 24:1–41",
               "style": "bible_link"
@@ -74815,7 +74815,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Daniel 7",
               "style": "bible_link"
@@ -75055,7 +75055,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Daniel 7:9–10",
               "style": "bible_link"
@@ -75327,7 +75327,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Job 19:25–27",
               "style": "bible_link"
@@ -75579,7 +75579,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isaiah 64:4",
               "style": "bible_link"
@@ -75843,7 +75843,7 @@
         ],
         "read": {
           "type": "read",
-          "text": [
+          "words": [
             {
               "text": "Isaiah 65:17–25",
               "style": "bible_link"
