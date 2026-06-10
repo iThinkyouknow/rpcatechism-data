@@ -1,6 +1,11 @@
 Mix.install([:jason])
 
 defmodule ProcessIntermediate do
+
+  defp bible_names() do
+    read_file("bible_names.json") |> JSON.decode!()
+  end
+
   defp section_headings(), do: [
     "New Testament History",
     "Old Testament History",
@@ -104,6 +109,23 @@ defmodule ProcessIntermediate do
   defp put_mem_verse_map(lesson_map, []), do: lesson_map
   defp put_mem_verse_map(lesson_map, memory_verse), do: Map.put(lesson_map, :memory_verse, create_text_map(:memory_verse, remove_number_from_str(hd(memory_verse))))
 
+  defp handle_readings(text) do
+    list = text
+      |> String.split("; ")
+      |> Enum.map(fn str ->
+      case String.contains?(String.upcase(str), bible_names()) do
+        true -> %{style: :bible_link, text: str}
+        false -> %{style: :creeds_link, text: str}
+      end
+    end)
+
+    %{
+      type: :read,
+      text: list
+    }
+
+  end
+
   defp process_each_lesson(lessons) do
     lessons
     |> Enum.map(fn [lesson_str | lines] ->
@@ -130,7 +152,7 @@ defmodule ProcessIntermediate do
       %{
         text: create_text_map(:heading, numberless_lesson_str),
         uid: create_md5(numberless_lesson_str),
-        read: create_text_map(:read, remove_number_from_str(hd(read))),
+        read: handle_readings(remove_number_from_str(hd(read))),
         list: list
       }
         |> put_written_work_map(process_written_work_list(written_work, nil))
@@ -203,16 +225,32 @@ defmodule ProcessIntermediate do
     reading_map = case str do 
       x when x in ["Introductory Notes", "Formula of Subscription", "Frederick’s Preface to the Heidelberg Catechism", "Guido de Brès’ Preface to the Belgic Confession", "Conclusion of the Canons of Dordrecht"] ->
         %{curr_lesson_map | list: [create_text_map(:subheading, str) | curr_lesson_map.list]}
-      "Source: " <> _rest -> 
-        %{curr_lesson_map | list: [create_text_map(:source, remove_number_from_str(str)) | curr_lesson_map.list]}
-      "Read: " <> _rest ->
-        %{curr_lesson_map | read: create_text_map(:read, remove_number_from_str(str))}
+      "Source: " <> rest ->
+        %{curr_lesson_map | list: [handle_source(rest) | curr_lesson_map.list]}
+      "Read: " <> rest ->
+        %{curr_lesson_map | read: handle_readings(rest)}
 
       _ -> %{curr_lesson_map | list: [create_text_map(:text, str) | curr_lesson_map.list]}
     end
 
 
     handle_hc_readings(rest, [reading_map | rest_result])
+  end
+
+  defp handle_source("Original Preface of Heidelberg Catechism (1563).pdf" = str) do
+    %{
+      type: :source,
+      words: [
+        %{
+          style: :external_link,
+          text: str,
+          url: "https://heidelberg-catechism.s3.amazonaws.com/Original%20Preface%20of%20Heidelberg%20Catechism%20%281563%29.pdf"
+        }
+      ]
+    }
+  end
+  defp handle_source(str) do
+    create_text_map(:source, str)
   end
 
 
