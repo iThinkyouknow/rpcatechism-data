@@ -106,8 +106,27 @@ defmodule ProcessIntermediate do
   defp put_written_work_map(lesson_map, nil), do: lesson_map
   defp put_written_work_map(lesson_map, written_work), do: Map.put(lesson_map, :written_work, written_work)
 
+  defp process_memory_verse(memory_verse) do
+    emDash = "—"
+    [verse, ref] = memory_verse
+      |> String.split(emDash, parts: 2)
+    %{
+      type: :memory_verse,
+      words: [
+        %{
+          style: nil,
+          text: remove_number_from_str(verse) <> emDash,
+        },
+        %{
+          style: :bible_link,
+          text: ref
+        }
+      ]
+    }
+  end
+
   defp put_mem_verse_map(lesson_map, []), do: lesson_map
-  defp put_mem_verse_map(lesson_map, memory_verse), do: Map.put(lesson_map, :memory_verse, create_text_map(:memory_verse, remove_number_from_str(hd(memory_verse))))
+  defp put_mem_verse_map(lesson_map, [memory_verse]), do: Map.put(lesson_map, :memory_verse, process_memory_verse(memory_verse)) |> IO.inspect()
 
   defp handle_readings(text) do
     list = text
