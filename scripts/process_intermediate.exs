@@ -125,8 +125,30 @@ defmodule ProcessIntermediate do
     }
   end
 
+  defp create_creeds_link(str, creed) do
+    %{
+      style: :creeds_link,
+      text: str,
+      creed: creed,
+      indexes: [[]]
+    }
+  end
+
+  defp handle_creeds_link(str) do
+    lower_str = String.downcase(str)
+    cond do
+      String.contains?(lower_str, ["heidelberg", "q&a", "lord’s day"]) -> create_creeds_link(str, :hc)
+      String.contains?(lower_str, ["canons", "rejection"]) -> create_creeds_link(str, :cod)
+      String.contains?(lower_str, ["belgic"]) -> create_creeds_link(str, :bc)
+      String.contains?(lower_str, ["formula of subscription"]) -> create_creeds_link(str, :fos)
+      String.contains?(lower_str, ["nicene"]) -> create_creeds_link(str, :nicene)
+      String.contains?(lower_str, ["apostles"]) -> create_creeds_link(str, :apostles)
+      true -> create_creeds_link(str, :unknown)
+    end
+  end
+
   defp put_mem_verse_map(lesson_map, []), do: lesson_map
-  defp put_mem_verse_map(lesson_map, [memory_verse]), do: Map.put(lesson_map, :memory_verse, process_memory_verse(memory_verse)) |> IO.inspect()
+  defp put_mem_verse_map(lesson_map, [memory_verse]), do: Map.put(lesson_map, :memory_verse, process_memory_verse(memory_verse))
 
   defp handle_readings(text) do
     list = text
@@ -134,7 +156,7 @@ defmodule ProcessIntermediate do
       |> Enum.map(fn str ->
       case String.contains?(String.upcase(str), bible_names()) do
         true -> %{style: :bible_link, text: str}
-        false -> %{style: :creeds_link, text: str}
+        false -> handle_creeds_link(str)
       end
     end)
 

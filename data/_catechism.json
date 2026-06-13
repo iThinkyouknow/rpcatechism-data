@@ -56492,23 +56492,37 @@
           "words": [
             {
               "text": "The Formula of Subscription",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "fos",
+              "indexes": [
+                [0]
+              ]
             },
             {
               "text": "Frederick’s Preface to the Heidelberg Catechism",
-              "style": "creeds_link"
+              "style": "external_link",
+              "url": "https://google.com"
             },
             {
               "text": "Guido de Brès’ Preface to the Belgic Confession",
-              "style": "creeds_link"
+              "style": "external_link",
+              "url": "https://google.com"
             },
             {
               "text": "The Conclusion of the Canons of Dordrecht",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [5]
+              ]
             },
             {
               "text": "Lord’s Day 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [1]
+              ]
             }
           ]
         },
@@ -63300,7 +63314,12 @@
             },
             {
               "text": "Belgic Confession articles 1–2",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [1],
+                [2]
+              ]
             }
           ]
         },
@@ -63524,7 +63543,11 @@
             },
             {
               "text": "Belgic Confession article 2",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [2]
+              ]
             }
           ]
         },
@@ -63760,7 +63783,12 @@
             },
             {
               "text": "Belgic Confession articles 3, 7",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [3],
+                [7]
+              ]
             }
           ]
         },
@@ -63992,7 +64020,13 @@
             },
             {
               "text": "Belgic Confession articles 3–5",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [3],
+                [4],
+                [5]
+              ]
             }
           ]
         },
@@ -64224,11 +64258,23 @@
             },
             {
               "text": "Belgic Confession articles 8–11",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [8],
+                [9],
+                [10],
+                [11]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 8, 20",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [8],
+                [20]
+              ]
             }
           ]
         },
@@ -64472,7 +64518,11 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 47",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [47]
+              ]
             }
           ]
         },
@@ -64728,7 +64778,11 @@
             },
             {
               "text": "Belgic Confession article 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [1]
+              ]
             }
           ]
         },
@@ -64960,7 +65014,11 @@
             },
             {
               "text": "Belgic Confession article 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [1]
+              ]
             }
           ]
         },
@@ -65936,7 +65994,12 @@
             },
             {
               "text": "Canons of Dordt 1, articles 6, 15",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [1, 5],
+                [1, 14]
+              ]
             }
           ]
         },
@@ -66172,7 +66235,11 @@
             },
             {
               "text": "Belgic Confession article 12",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [12]
+              ]
             }
           ]
         },
@@ -66412,11 +66479,20 @@
             },
             {
               "text": "Belgic Confession article 13",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [13]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 9–10",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [9],
+                [10]
+              ]
             }
           ]
         },
@@ -66676,11 +66752,20 @@
             },
             {
               "text": "Belgic Confession article 13",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [13]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 9–10",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [9],
+                [10]
+              ]
             }
           ]
         },
@@ -66912,15 +66997,27 @@
             },
             {
               "text": "Belgic Confession article 14",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [14]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 3",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [3]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, article 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 0]
+              ]
             }
           ]
         },
@@ -67388,15 +67485,32 @@
             },
             {
               "text": "Belgic Confession articles 14–15",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [14],
+                [15]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 3–4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [3],
+                [4]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 1–4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 0],
+                [3, 1],
+                [3, 2],
+                [3, 3]
+              ]
             }
           ]
         },
@@ -67632,15 +67746,32 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 3–4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [3],
+                [4]
+              ]
             },
             {
               "text": "Belgic Confession articles 14–15",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [14],
+                [15]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 1–4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 0],
+                [3, 1],
+                [3, 2],
+                [3, 3]
+              ]
             }
           ]
         },
@@ -67868,15 +67999,34 @@
             },
             {
               "text": "Belgic Confession articles 16–17",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [16],
+                [17]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 4–6",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [4],
+                [5],
+                [6]
+              ]
             },
             {
               "text": "Canons of Dordt 2, articles 1–5",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 0],
+                [2, 1],
+                [2, 2],
+                [2, 3],
+                [2, 4]
+              ]
             }
           ]
         },
@@ -68156,7 +68306,13 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 11–13",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [11],
+                [12],
+                [13]
+              ]
             }
           ]
         },
@@ -68415,8 +68571,8 @@
               "style": "bible_link"
             },
             {
-              "text": "Philippines 2:5–9",
-              "style": "creeds_link"
+              "text": "Philippians 2:5–9",
+              "style": "bible_link"
             },
             {
               "text": "Hebrews 1:1–14",
@@ -68440,15 +68596,29 @@
             },
             {
               "text": "Nicene Creed",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "nicene",
+              "indexes": [
+                [1]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 5–6",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [5],
+                [6]
+              ]
             },
             {
               "text": "Belgic Confession articles 19–20",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [19],
+                [20]
+              ]
             }
           ]
         },
@@ -68671,8 +68841,8 @@
               "style": "bible_link"
             },
             {
-              "text": "Philippines 2:5–9",
-              "style": "creeds_link"
+              "text": "Philippians 2:5–9",
+              "style": "bible_link"
             },
             {
               "text": "Hebrews 1:1–14",
@@ -68688,19 +68858,37 @@
             },
             {
               "text": "Creed of Chalcedon",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "chalcedon",
+              "indexes": [
+                [1]
+              ]
             },
             {
               "text": "Belgic Confession articles 19–20",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [19],
+                [20]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 5–6",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [5],
+                [6]
+              ]
             },
             {
               "text": "Canons of Dordt 2, article 4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 3]
+              ]
             }
           ]
         },
@@ -68948,11 +69136,20 @@
             },
             {
               "text": "Belgic Confession articles 21, 26",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [21],
+                [26]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 12",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [12]
+              ]
             }
           ]
         },
@@ -69256,11 +69453,20 @@
             },
             {
               "text": "Belgic Confession articles 21, 26",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [21],
+                [26]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 12",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [12]
+              ]
             }
           ]
         },
@@ -69500,15 +69706,33 @@
             },
             {
               "text": "Belgic Confession articles 17–18",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [17],
+                [18]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 14–16",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [14],
+                [15],
+                [16]
+              ]
             },
             {
               "text": "Canons of Dordt 2 articles 1–4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 0],
+                [2, 1],
+                [2, 2],
+                [2, 3]
+              ]
             }
           ]
         },
@@ -69764,15 +69988,33 @@
             },
             {
               "text": "Belgic Confession articles 20–21",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [20],
+                [21]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 15–16",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [15],
+                [16]
+              ]
             },
             {
               "text": "Canons of Dordt 2, articles 5–9",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 4],
+                [2, 5],
+                [2, 6],
+                [2, 7],
+                [2, 8]
+              ]
             }
           ]
         },
@@ -70042,11 +70284,20 @@
             },
             {
               "text": "Belgic Confession article 26",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [26]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 17–18",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [17],
+                [18]
+              ]
             }
           ]
         },
@@ -70286,11 +70537,20 @@
             },
             {
               "text": "Belgic Confession article 23, 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [23],
+                [37]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 19",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [19]
+              ]
             }
           ]
         },
@@ -70542,15 +70802,29 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 27, Q&A 74",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [27, 2]
+              ]
             },
             {
               "text": "Canons of Dordt 2, article 8, rejections and errors 2, 4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 7],
+                [2, 10],
+                [2, 12]
+              ]
             },
             {
               "text": "Canons of Dordt 5, rejection and error 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [4, 15]
+              ]
             }
           ]
         },
@@ -70794,23 +71068,43 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 7, Q&A 20",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [7, 0]
+              ]
             },
             {
               "text": "Lord’s Day 12, Q&A 31",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [12, 0]
+              ]
             },
             {
               "text": "Lord’s Day 21, Q&A 55",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [21, 1]
+              ]
             },
             {
               "text": "Lord’s Day 26, Q&A 70",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [26, 1]
+              ]
             },
             {
               "text": "Lord’s Day, 28 Q&A 76",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [28, 1]
+              ]
             }
           ]
         },
@@ -71086,31 +71380,61 @@
             },
             {
               "text": "Belgic Confession article 22, 24",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [22],
+                [24]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 1",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [1]
+              ]
             },
             {
               "text": "7–8",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [7],
+                [8]
+              ]
             },
             {
               "text": "18, Q&A 49",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [18, 3]
+              ]
             },
             {
               "text": "20",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [20]
+              ]
             },
             {
               "text": "25, Q&A 65",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [25, 0]
+              ]
             },
             {
               "text": "28, Q& 76",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [28, 1]
+              ]
             }
           ]
         },
@@ -71350,15 +71674,29 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 3",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [3]
+              ]
             },
             {
               "text": "32, Q&A 86",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [32, 0]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 11–14",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 10],
+                [3, 12],
+                [3, 13]
+              ]
             }
           ]
         },
@@ -71594,19 +71932,39 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 25, Q&A 65",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [25, 0]
+              ]
             },
             {
               "text": "Lord’s Day 31, Q&A 84",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [31, 1]
+              ]
             },
             {
               "text": "Canons of Dordt 2, articles 5–7",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 4],
+                [2, 5],
+                [2, 6]
+              ]
             },
             {
               "text": "3–4, articles 8–10",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "unknown",
+              "indexes": [
+                [3, 7],
+                [3, 8],
+                [3, 9]
+              ]
             }
           ]
         },
@@ -71842,15 +72200,28 @@
             },
             {
               "text": "Belgic Confession article 22",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [22]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 7",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [7]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 13–14",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 12],
+                [3, 13]
+              ]
             }
           ]
         },
@@ -72102,23 +72473,45 @@
             },
             {
               "text": "Belgic Confession articles 22–23",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [22],
+                [23]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 7",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [7]
+              ]
             },
             {
               "text": "Lord’s Day 21, Q&A 56",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [21, 2]
+              ]
             },
             {
               "text": "Lord’s Days 23–24",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [23],
+                [24]
+              ]
             },
             {
               "text": "Canons of Dordt 2, rejection and error 4",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 13]
+              ]
             }
           ]
         },
@@ -72378,7 +72771,11 @@
             },
             {
               "text": "Belgic Confession article 24",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [24]
+              ]
             }
           ]
         },
@@ -72618,15 +73015,32 @@
             },
             {
               "text": "Belgic Confession article 24",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [24]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 32–33",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [32],
+                [33]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 5, 10–12",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 4],
+                [3, 9],
+                [3, 10],
+                [3, 11],
+                [3, 12]
+              ]
             }
           ]
         },
@@ -72874,7 +73288,11 @@
             },
             {
               "text": "Canons of Dordt 5",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [5]
+              ]
             }
           ]
         },
@@ -73175,11 +73593,19 @@
             },
             {
               "text": "Belgic Confession article 27",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [27]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 21, Q&A 54",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [21, 0]
+              ]
             }
           ]
         },
@@ -73440,11 +73866,21 @@
             },
             {
               "text": "Belgic Confession articles 28–29",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [28],
+                [29]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 21, Q&A 55–56",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [21, 1],
+                [21, 2]
+              ]
             }
           ]
         },
@@ -73692,15 +74128,29 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 25",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [25]
+              ]
             },
             {
               "text": "Canons of Dordt 2, article 5",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [2, 4]
+              ]
             },
             {
               "text": "Canons of Dordt 3–4, articles 6, 8, 17",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "cod",
+              "indexes": [
+                [3, 5],
+                [3, 7],
+                [3, 16]
+              ]
             }
           ]
         },
@@ -73961,11 +74411,19 @@
             },
             {
               "text": "Belgic Confession article 33",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [33]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 25",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [25]
+              ]
             }
           ]
         },
@@ -74193,15 +74651,30 @@
             },
             {
               "text": "Belgic Confession article 24",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [24]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Days 26–27",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [26],
+                [27]
+              ]
             },
             {
               "text": "the Form for the Administration of Baptism",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "baptism",
+              "indexes": [
+                [0],
+                [1],
+                [2]
+              ]
             }
           ]
         },
@@ -74445,11 +74918,21 @@
             },
             {
               "text": "Belgic Confession article 35",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [35]
+              ]
             },
             {
-              "text": "Heidelberg Catechism Lord’s Days 28–",
-              "style": "creeds_link"
+              "text": "Heidelberg Catechism Lord’s Days 28–30",
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [28],
+                [29],
+                [30]
+              ]
             }
           ]
         },
@@ -74693,11 +75176,19 @@
             },
             {
               "text": "Belgic Confession article 32",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [32]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 31",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [31]
+              ]
             }
           ]
         },
@@ -74941,11 +75432,19 @@
             },
             {
               "text": "Belgic Confession article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 19",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [19]
+              ]
             }
           ]
         },
@@ -75193,7 +75692,11 @@
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 22, Q&A 57",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [22, 0]
+              ]
             }
           ]
         },
@@ -75441,7 +75944,11 @@
             },
             {
               "text": "Belgic Confession article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             }
           ]
         },
@@ -75970,11 +76477,19 @@
             },
             {
               "text": "Belgic Confession Article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 19",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [19]
+              ]
             }
           ]
         },
@@ -76222,11 +76737,19 @@
             },
             {
               "text": "Belgic Confession article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 22",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [22]
+              ]
             }
           ]
         },
@@ -76486,11 +77009,19 @@
             },
             {
               "text": "Belgic Confession article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             },
             {
               "text": "Heidelberg Catechism Lord’s Day 19",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "hc",
+              "indexes": [
+                [19]
+              ]
             }
           ]
         },
@@ -76734,7 +77265,11 @@
             },
             {
               "text": "Belgic Confession article 37",
-              "style": "creeds_link"
+              "style": "creeds_link",
+              "creed": "bc",
+              "indexes": [
+                [37]
+              ]
             }
           ]
         },
