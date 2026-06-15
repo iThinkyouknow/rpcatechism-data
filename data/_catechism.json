@@ -74671,7 +74671,9 @@
               "style": "creeds_link",
               "creed": "baptism",
               "indexes": [
-                [0]
+                [0],
+                [1],
+                [2]
               ]
             }
           ]
