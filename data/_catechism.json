@@ -56501,12 +56501,12 @@
             {
               "text": "Frederick’s Preface to the Heidelberg Catechism",
               "style": "external_link",
-              "url": "https://google.com"
+              "url": "https://reformedbelieverspub.org/article/catechism-or-christian-instruction-as-this-is-carried-on-in-churches-and-schools-of-the-electoral-palatinate"
             },
             {
               "text": "Guido de Brès’ Preface to the Belgic Confession",
               "style": "external_link",
-              "url": "https://google.com"
+              "url": "https://irrelevantmag.wordpress.com/2021/04/08/historical-introduction-to-the-belgic-confession-de-bres-letter-to-king-phillip-ii-of-spain-in-defense-of-the-doctrine-and-practice-of-the-reformers"
             },
             {
               "text": "The Conclusion of the Canons of Dordrecht",
@@ -74671,9 +74671,7 @@
               "style": "creeds_link",
               "creed": "baptism",
               "indexes": [
-                [0],
-                [1],
-                [2]
+                [0]
               ]
             }
           ]
