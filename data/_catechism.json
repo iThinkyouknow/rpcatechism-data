@@ -57490,8 +57490,52 @@
               "type": "hc_answer",
               "words": [
                 {
-                  "text": "1. I believe in God the Father, Almighty, Maker of heaven and earth; 2. And in Jesus Christ, his only begotten Son, our Lord; 3. Who was conceived by the Holy Ghost, born of the Virgin Mary; 4. Suffered under Pontius Pilate; was crucified, dead, and buried; he descended into hell; 5. The third day he rose again from the dead; 6. He ascended into heaven, and sitteth at the right hand of God the Father Almighty; 7. From thence he shall come to judge the quick and the dead. 8. I believe in the Holy Ghost. 9. I believe an holy catholic church; the communion of saints; 10. The forgiveness of sins; 11. The resurrection of the body; 12. And the life everlasting. Amen.",
-                  "style": null
+                  "text": "1. I believe in God the Father, Almighty, Maker of heaven and earth;",
+                  "style": "list"
+                },
+                {
+                  "text": "2. And in Jesus Christ, his only begotten Son, our Lord;",
+                  "style": "list"
+                },
+                {
+                  "text": "3. Who was conceived by the Holy Ghost, born of the Virgin Mary;",
+                  "style": "list"
+                },
+                {
+                  "text": "4. Suffered under Pontius Pilate; was crucified, dead, and buried; he descended into hell;",
+                  "style": "list"
+                },
+                {
+                  "text": "5. The third day he rose again from the dead;",
+                  "style": "list"
+                },
+                {
+                  "text": "6. He ascended into heaven, and sitteth at the right hand of God the Father Almighty;",
+                  "style": "list"
+                },
+                {
+                  "text": "7. From thence he shall come to judge the quick and the dead.",
+                  "style": "list"
+                },
+                {
+                  "text": "8. I believe in the Holy Ghost.",
+                  "style": "list"
+                },
+                {
+                  "text": "9. I believe an holy catholic church; the communion of saints;",
+                  "style": "list"
+                },
+                {
+                  "text": "10. The forgiveness of sins;",
+                  "style": "list"
+                },
+                {
+                  "text": "11. The resurrection of the body;",
+                  "style": "list"
+                },
+                {
+                  "text": "12. And the life everlasting. Amen.",
+                  "style": "list"
                 }
               ]
             }
@@ -61111,9 +61155,49 @@
               "type": "hc_answer",
               "words": [
                 {
-                  "text": "God spake all these words, Exodus 20, Deuteronomy 5, saying: “I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.” 1. Thou shalt have no other gods before me. 2. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments. 3. Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain. 4. Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it. 5. Honor thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee. 6. Thou shalt not kill. 7. Thou shalt not commit adultery. 8. Thou shalt not steal. 9. Thou shalt not bear false witness against thy neighbor. 10. Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy neighbor’s.",
+                  "text": "God spake all these words, Exodus 20, Deuteronomy 5, saying: “I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.”",
                   "style": null
-                }
+                },
+                {
+                  "text": "1. Thou shalt have no other gods before me.",
+                  "style": "list"
+                },
+                {
+                  "text": "2. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and showing mercy unto thousands of them that love me, and keep my commandments.",
+                  "style": "list"
+                },
+                {
+                  "text": "3. Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain.",
+                  "style": "list"
+                },
+                {
+                  "text": "4. Remember the sabbath day, to keep it holy. Six days shalt thou labor, and do all thy work: but the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+                  "style": "list"
+                },
+                {
+                    "text": "5. Honor thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee."
+                    "style": "list"
+                },
+                {
+                    "text": "6. Thou shalt not kill."
+                    "style": "list"
+                },
+                {
+                    "text": "7. Thou shalt not commit adultery."
+                    "style": "list"
+                },
+                {
+                    "text": "8. Thou shalt not steal."
+                    "style": "list"
+                },
+                {
+                    "text": "9. Thou shalt not bear false witness against thy neighbor."
+                    "style": "list"
+                },
+                {
+                    "text": "10. Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy neighbor’s."
+                    "style": "list"
+                },
               ]
             }
           },
