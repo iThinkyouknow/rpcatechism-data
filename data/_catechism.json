@@ -63919,7 +63919,15 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read 2 Peter 1:20–21 and explain that God is the sole author of scripture.",
+                  "text": "Read ",
+                  "style": null
+                },
+                {
+                  "text": "2 Peter 1:20–21",
+                  "style": "bible_link"
+                },
+                {
+                  "text": " and explain that God is the sole author of scripture.",
                   "style": null
                 }
               ]
