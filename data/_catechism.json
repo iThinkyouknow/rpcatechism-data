@@ -526,7 +526,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Did Adam and Eve remain perfect?",
+                  "text": "Did Adam and Eve remain perfect in the garden?",
                   "style": null
                 }
               ]
@@ -536,7 +536,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, Adam and Eve disobeyed God in the garden.",
+                  "text": "No, Adam and Eve disobeyed God.",
                   "style": null
                 }
               ]
@@ -578,7 +578,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Satan, who came into the garden in a serpent.",
+                  "text": "Satan came into the garden in a serpent and tempted Eve.",
                   "style": null
                 }
               ]
@@ -2115,7 +2115,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Satan went to heaven and told God the lie that Job only served God because he had made Job rich.",
+                  "text": "Satan went to heaven and told God the lie that Job served God only because he had made Job rich.",
                   "style": null
                 }
               ]
@@ -2241,7 +2241,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "To show that God controls evil for the good of his people.",
+                  "text": "God did those things to show that God controls evil for the good of his people.",
                   "style": null
                 }
               ]
@@ -2466,7 +2466,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "It meant that Abram lived in the hope of a heavenly city, and the earthly was not his home.",
+                  "text": "It meant that Abram lived in the hope of a heavenly city, and the earthly Canaan was not his home.",
                   "style": null
                 }
               ]
@@ -2857,7 +2857,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Abram armed 318 of his servants and chased the kings from the East.",
+                  "text": "Abram armed 318 of his servants and chased the kings of the East.",
                   "style": null
                 }
               ]
@@ -2899,7 +2899,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Melchizedek, king of Salem and priest of the most high God met Abram.",
+                  "text": "Melchizedek, king of Salem and priest of the most high God, met Abram.",
                   "style": null
                 }
               ]
@@ -2941,7 +2941,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Abram gave tithes of all his possessions to Melchizedek?",
+                  "text": "Abram gave tithes of all his possessions to Melchizedek.",
                   "style": null
                 }
               ]
@@ -3257,7 +3257,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Vision of the Smoking Furnace",
+              "text": "The Vision of the Smoking Furnace",
               "style": null
             }
           ]
@@ -3780,11 +3780,11 @@
           "type": "memory_verse",
           "words": [
             {
-              "text": "“His wife looked back from behind him, and she became a pillar of salt.”—",
+              "text": "“Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.”—",
               "style": null
             },
             {
-              "text": "Genesis 19:26",
+              "text": "Luke 17:33",
               "style": "bible_link"
             }
           ]
@@ -4236,7 +4236,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who is the true Lamb that was sacrificed in our place.",
+                  "text": "Who is the true Lamb that was sacrificed in our place?",
                   "style": null
                 }
               ]
@@ -4318,7 +4318,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Where did Abraham bury Sarah?",
+                  "text": "What did Abraham do after Sarah died?",
                   "style": null
                 }
               ]
@@ -4328,7 +4328,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Abraham bought a cave and a field in Canaan.",
+                  "text": "Abraham bought a cave and a field in Canaan in which to bury Sarah.",
                   "style": null
                 }
               ]
@@ -4778,7 +4778,11 @@
               "style": "bible_link"
             },
             {
-              "text": "Genesis 26:34–27:46",
+              "text": "Genesis 26:34–35",
+              "style": "bible_link"
+            },
+            {
+              "text": "Genesis 27",
               "style": "bible_link"
             },
             {
@@ -5545,7 +5549,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Genesis 30:25–31:55",
+              "text": "Genesis 30:25–43",
+              "style": "bible_link"
+            },
+            {
+              "text": "Genesis 31",
               "style": "bible_link"
             }
           ]
@@ -5873,7 +5881,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Which one of his children did Jacob love more?",
+                  "text": "Which one of his children did Jacob love most?",
                   "style": null
                 }
               ]
@@ -6295,7 +6303,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Joseph say was the meaning of Pharaoh’s dreams.",
+                  "text": "What did Joseph say was the meaning of Pharaoh’s dreams?",
                   "style": null
                 }
               ]
@@ -6572,7 +6580,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Yes, and his brothers were all very glad.",
+                  "text": "Yes, and his brothers were very glad.",
                   "style": null
                 }
               ]
@@ -6604,7 +6612,7 @@
           "type": "read",
           "words": [
             {
-              "text": "Genesis 42–45:1–15",
+              "text": "Genesis 42–45:15",
               "style": "bible_link"
             },
             {
@@ -6812,7 +6820,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Joseph tell the children of Israel before he died.",
+                  "text": "What did Joseph tell the children of Israel before he died?",
                   "style": null
                 }
               ]
@@ -7676,7 +7684,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Exodus 2:15–4:31",
+              "text": "Exodus 2:15–25",
+              "style": "bible_link"
+            },
+            {
+              "text": "Exodus 3–4",
               "style": "bible_link"
             },
             {
@@ -7926,7 +7938,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Exodus 4:29–7:25",
+              "text": "Exodus 4:29–31",
+              "style": "bible_link"
+            },
+            {
+              "text": "Exodus 5–7",
               "style": "bible_link"
             }
           ]
@@ -8193,7 +8209,7 @@
           "type": "read",
           "words": [
             {
-              "text": "Exodus 8:1–10:29",
+              "text": "Exodus 8–10",
               "style": "bible_link"
             }
           ]
@@ -9484,7 +9500,7 @@
               "style": "bible_link"
             },
             {
-              "text": "and various passages from Exodus 25–27 regarding the ark, tabernacle, and burnt offerings",
+              "text": "various passages from Exodus 25–27 regarding the ark, tabernacle, and burnt offerings",
               "style": "bible_link"
             },
             {
@@ -11045,7 +11061,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Joshua 21:5-12",
+              "text": "Joshua 21:5–12",
               "style": "bible_link"
             },
             {
@@ -11095,7 +11111,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Balak hired the false prophet Balaam to curse Israel?",
+                  "text": "Balak hired the false prophet Balaam to curse Israel.",
                   "style": null
                 }
               ]
@@ -11698,7 +11714,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Rahab said that the spies left the city, and the soldiers should chase them.",
+                  "text": "Rahab said that the spies had left the city, and the soldiers should chase them.",
                   "style": null
                 }
               ]
@@ -11856,7 +11872,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Rahab and Two Spies",
+              "text": "Rahab and the Two Spies",
               "style": null
             }
           ]
@@ -12244,7 +12260,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Joshua commanded the people to shout when the priests blew the trumpets, because God had given the city to Israel.",
+                  "text": "Joshua commanded the people to shout when the priests blew the trumpets because God had given the city to Israel.",
                   "style": null
                 }
               ]
@@ -12494,7 +12510,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God said that Achan and his family, his animals, and all his possessions were to be stoned, burned, and a pile of stones heaped over them.",
+                  "text": "God said that Achan and his family, his animals, and all his possessions were to be stoned and burned and a pile of stones heaped over them.",
                   "style": null
                 }
               ]
@@ -12568,7 +12584,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Joshua’s reading of the blessings and cursing of the law to Israel at Mount Ebal and Mount Gerazim teach the people?",
+                  "text": "What did Joshua’s reading of the blessing and cursing of the law to Israel at Mount Ebal and Mount Gerazim teach the people?",
                   "style": null
                 }
               ]
@@ -12998,7 +13014,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Yes, the sun and moon stood still for a whole day.",
+                  "text": "Yes, the sun and the moon stood still for a whole day.",
                   "style": null
                 }
               ]
@@ -14127,7 +14143,7 @@
           "type": "read",
           "words": [
             {
-              "text": "Malachi",
+              "text": "Malachi 1–4",
               "style": "bible_link"
             },
             {
@@ -14400,7 +14416,7 @@
           "type": "memory_verse",
           "words": [
             {
-              "text": "“She shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.”—",
+              "text": "“She shall bring forth a son, and thou shalt call his name Jesus: for he shall save his people from their sins.”—",
               "style": null
             },
             {
@@ -14606,7 +14622,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What was Jesus’s answer when his mother said that she and Joseph had been looking for him.",
+                  "text": "What was Jesus’ answer when his mother said that she and Joseph had been looking for him?",
                   "style": null
                 }
               ]
@@ -14698,7 +14714,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "John lived in the wilderness because it was a picture of the deadness of the people, so that their salvation was impossible apart from Christ.",
+                  "text": "John lived in the wilderness because it was a picture of the deadness of the people, which showed that their salvation was impossible apart from Christ.",
                   "style": null
                 }
               ]
@@ -15203,7 +15219,7 @@
           "type": "memory_verse",
           "words": [
             {
-              "text": "“The Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well-pleased.”—",
+              "text": "“The Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.”—",
               "style": null
             },
             {
@@ -15293,7 +15309,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus found Peter and Andrew mending their nets and Jesus told them to go fishing.",
+                  "text": "Jesus found Peter and Andrew mending their nets, and Jesus told them to go fishing.",
                   "style": null
                 }
               ]
@@ -15304,7 +15320,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Peter tell Jesus about fishing?",
+                  "text": "What did Peter tell Jesus about the fishermen and their fishing?",
                   "style": null
                 }
               ]
@@ -15314,7 +15330,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter said that the men had fished all night and caught nothing, but at Jesus’ word Peter would go fishing.",
+                  "text": "Peter said that the men had fished all night and caught nothing, but at Jesus’ word Peter would cast out the net again.",
                   "style": null
                 }
               ]
@@ -15335,7 +15351,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The fishermen caught so many fish that their nets were ready to break.",
+                  "text": "The fishermen caught so many fish that the net was ready to break.",
                   "style": null
                 }
               ]
@@ -15346,7 +15362,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Whom did Peter and Andrew call to help them bring in the nets.",
+                  "text": "Whom did Peter and Andrew call to help them bring in the nets?",
                   "style": null
                 }
               ]
@@ -15467,7 +15483,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Calling the Disciples and the Wedding Feast at Cana",
+              "text": "The Wedding Feast at Cana and Calling the Disciples",
               "style": null
             }
           ]
@@ -15630,7 +15646,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus healed a man full of leprosy who met Jesus and asked him to heal his leprosy.",
+                  "text": "Jesus healed a man full of leprosy who met Jesus and asked to be healed.",
                   "style": null
                 }
               ]
@@ -15846,7 +15862,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "A centurion sent the elders of Capernaum to ask Jesus to heal his servant.",
+                  "text": "The faith of a centurion who sent the elders of Capernaum to ask Jesus to heal his servant.",
                   "style": null
                 }
               ]
@@ -15888,7 +15904,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said he had not found so great faith in Israel.",
+                  "text": "Jesus said that he had not found so great faith in Israel.",
                   "style": null
                 }
               ]
@@ -15991,7 +16007,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Jesus in Nazareth and Healing the Centurion’s Servant",
+              "text": "Jesus in Nazareth and the Healing of the Centurion’s Servant",
               "style": null
             }
           ]
@@ -16228,7 +16244,7 @@
           "type": "read",
           "words": [
             {
-              "text": "Matthew 8:16–-27",
+              "text": "Matthew 8:16–27",
               "style": "bible_link"
             },
             {
@@ -16280,7 +16296,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who met Jesus out of the tombs when he came into the country of the Gadarenes?",
+                  "text": "Who came out of the tombs and met Jesus when he came into the country of the Gadarenes?",
                   "style": null
                 }
               ]
@@ -16290,7 +16306,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus was met by two men possessed with devils who roared like animals and cut themselves day and night.",
+                  "text": "Jesus was met by two devil-possessed men who roared like animals and cut themselves day and night.",
                   "style": null
                 }
               ]
@@ -16332,7 +16348,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "They were possessed by an unclean spirit.",
+                  "text": "They were possessed by unclean spirits.",
                   "style": null
                 }
               ]
@@ -16364,7 +16380,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did the unclean spirit say when Jesus asked his name?",
+                  "text": "What did an unclean spirit say when Jesus asked his name?",
                   "style": null
                 }
               ]
@@ -16586,7 +16602,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "A woman with an issue of blood for twelve years who had spent all her money on doctors who only made her sicker.",
+                  "text": "To Jesus came a woman who had an issue of blood for twelve years and who had spent all her money on doctors who only made her sicker.",
                   "style": null
                 }
               ]
@@ -16903,7 +16919,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Some seed fell on good soil, while other seed fell on thorny and stoney soils and a hard path.",
+                  "text": "Some seed fell on good soil, while other seed fell on thorny and stony soils and a hard path.",
                   "style": null
                 }
               ]
@@ -16956,7 +16972,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the stoney soil?",
+                  "text": "What is the stony soil?",
                   "style": null
                 }
               ]
@@ -16966,7 +16982,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The stoney soil is also the reprobate who appear to believe, but when persecution comes they do not endure.",
+                  "text": "The stony soil is also the reprobate who appear to believe, but when persecution comes they do not endure.",
                   "style": null
                 }
               ]
@@ -18177,7 +18193,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said, “I am the resurrection, and the life: he that believes in me, though he were dead, yet shall he live.”",
+                  "text": "Jesus said, “I am the resurrection and the life: he that believes in me, though he were dead, yet shall he live.”",
                   "style": null
                 }
               ]
@@ -18375,7 +18391,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Whose home did Jesus enter in Jericho?",
+                  "text": "Whose home in Jericho did Jesus enter?",
                   "style": null
                 }
               ]
@@ -18672,7 +18688,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus royal entry on a colt was a sign that he will come into his kingdom through the lowliness of the cross.",
+                  "text": "Jesus’ royal entry on a colt was a sign that he will come into his kingdom through the lowliness of the cross.",
                   "style": null
                 }
               ]
@@ -18777,7 +18793,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus meant his death on the cross where he was made a curse for us to deliver us from the curse of the law.",
+                  "text": "Jesus meant his death on the cross where he would be made a curse for us to deliver us from the curse of the law.",
                   "style": null
                 }
               ]
@@ -18792,7 +18808,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Mark 11:1-18",
+              "text": "Mark 11:1–18",
               "style": "bible_link"
             },
             {
@@ -19121,7 +19137,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Judas was offended, and he decided to betray Christ.",
+                  "text": "Judas was offended, and he decided to betray Jesus.",
                   "style": null
                 }
               ]
@@ -19163,7 +19179,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Judas betrayed Jesus because Judas was a reprobate appointed by God to this evil work.",
+                  "text": "Judas betrayed Jesus because Judas was a reprobate appointed by God to that evil work.",
                   "style": null
                 }
               ]
@@ -19317,7 +19333,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Betrayed and the Lord’s Supper",
+              "text": "Betrayed and Instituting the Lord’s Supper",
               "style": null
             }
           ]
@@ -19354,7 +19370,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus took his disciples over the brook Kidron to the garden of Gethsemane.",
+                  "text": "Jesus led his disciples over the brook Kidron to the garden of Gethsemane.",
                   "style": null
                 }
               ]
@@ -19512,7 +19528,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Could the soldiers have taken Jesus if he was not willing to go with them?",
+                  "text": "Could the soldiers have taken Jesus if he had not been willing to go with them?",
                   "style": null
                 }
               ]
@@ -19602,7 +19618,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did the disciples do when the soldiers bound Jesus.",
+                  "text": "What did the disciples do when the soldiers bound Jesus?",
                   "style": null
                 }
               ]
@@ -19675,7 +19691,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "With cursing and swearing, Peter denied Jesus three times as Jesus had said he would do.",
+                  "text": "With cursing and swearing, Peter denied Jesus three times as he had said Peter would do.",
                   "style": null
                 }
               ]
@@ -19696,7 +19712,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter remembered Jesus’ warning and Peter went out and wept bitterly.",
+                  "text": "Peter remembered Jesus’ warning, and Peter went out and wept bitterly.",
                   "style": null
                 }
               ]
@@ -19916,7 +19932,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Pilate hung the writing “JESUS OF NAZARETH THE KING OF THE JEWS.”",
+                  "text": "Pilate hung the writing “Jesus of Nazareth the King of the Jews.”",
                   "style": null
                 }
               ]
@@ -20053,7 +20069,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Jesus tell the thief who said, “Lord, remember me when thou comest into thy kingdom?",
+                  "text": "What did Jesus tell the thief who said, “Lord, remember me when thou comest into thy kingdom”?",
                   "style": null
                 }
               ]
@@ -21249,7 +21265,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The signs were the sound as of a mighty rushing wind, cloven tongues of fire, and the 120 believers spoke in many languages.",
+                  "text": "The signs were the sound as of a rushing, mighty wind; cloven tongues of fire; and the 120 believers spoke in many languages.",
                   "style": null
                 }
               ]
@@ -21590,7 +21606,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did the priests and Sadducees who were angry about the Peter’s preaching the resurrection of Jesus do to Peter and John?",
+                  "text": "What did the priests and Sadducees, who were angry about Peter’s preaching the resurrection of Jesus, do to Peter and John?",
                   "style": null
                 }
               ]
@@ -21621,7 +21637,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter said that they performed miracles by the name Jesus Christ, who is the stone rejected by the builders but who is become the head of the corner.",
+                  "text": "Peter said that they performed miracles by the name of Jesus Christ, who is the stone rejected by the builders but who is become the head of the corner.",
                   "style": null
                 }
               ]
@@ -21683,7 +21699,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "The Healing of the Lame Man",
+              "text": "The Healing of the Lame Beggar",
               "style": null
             }
           ]
@@ -22463,7 +22479,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Deacons and Stephen",
+              "text": "Deacons Chosen and the Stoning of Stephen",
               "style": null
             }
           ]
@@ -22626,7 +22642,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "A bright line shone and blinded Saul, and Jesus appeared and said, “Saul, Saul why do you persecute me?”",
+                  "text": "A bright light shone and blinded Saul, and Jesus appeared and said, “Saul, Saul why do you persecute me?”",
                   "style": null
                 }
               ]
@@ -22762,7 +22778,7 @@
               "style": "bible_link"
             },
             {
-              "text": "2 Corinthians 11:31-32",
+              "text": "2 Corinthians 11:31–32",
               "style": "bible_link"
             },
             {
@@ -22779,7 +22795,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Persecution by Saul of Tarsus and His Conversion",
+              "text": "The Persecution by Saul of Tarsus and His Conversion",
               "style": null
             }
           ]
@@ -22984,7 +23000,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The eunuch asked who Isaiah meant by the man who was taken as a lamb to the slaughter.",
+                  "text": "The eunuch asked whom Isaiah meant by the man who was taken as a lamb to the slaughter.",
                   "style": null
                 }
               ]
@@ -23188,7 +23204,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Lord said, “What God has cleansed, do not call common.”",
+                  "text": "The Lord said, “What God has cleansed do not call common.”",
                   "style": null
                 }
               ]
@@ -23209,7 +23225,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Three times the sheet came down, and then the sheet was taken up to heaven.",
+                  "text": "Three times the sheet came down, God spoke, and then the sheet was taken up to heaven.",
                   "style": null
                 }
               ]
@@ -23304,7 +23320,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Acts 9:32–11:18",
+              "text": "Acts 9:32–43",
+              "style": "bible_link"
+            },
+            {
+              "text": "Acts 10–11:18",
               "style": "bible_link"
             }
           ]
@@ -23350,7 +23370,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "King Herod began a persecution and killed James the brother of John with the sword.",
+                  "text": "King Herod began a persecution and killed James the brother of John.",
                   "style": null
                 }
               ]
@@ -23382,7 +23402,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What happened to Peter while he was sleeping and chained to two soldiers in the prison the night before he was to die?",
+                  "text": "What happened to Peter the night before he was to die while he was sleeping and chained to two soldiers in the prison?",
                   "style": null
                 }
               ]
@@ -23508,7 +23528,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Herod do to the soldiers when he discovered that Peter was not in prison?",
+                  "text": "What did Herod do to the soldiers when he discovered that Peter was not in the prison?",
                   "style": null
                 }
               ]
@@ -23560,7 +23580,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The angel smote Herod with worms and he died because he did not give glory to God.",
+                  "text": "The angel smote Herod with worms, and he died because he did not give glory to God.",
                   "style": null
                 }
               ]
@@ -23859,7 +23879,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Acts 12:25-Acts 13",
+              "text": "Acts 12:25",
+              "style": "bible_link"
+            },
+            {
+              "text": "Acts 13",
               "style": "bible_link"
             }
           ]
@@ -24166,7 +24190,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who caused trouble in the church about the Gentiles?",
+                  "text": "Who caused trouble and controversy in the church about the Gentiles?",
                   "style": null
                 }
               ]
@@ -24239,7 +24263,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter said that God testified by giving the Holy Ghost to Cornelius and his household that God had purified their hearts by faith.",
+                  "text": "Peter said that by giving the Holy Ghost to Cornelius and his household, God testified that he had purified the Gentiles’ hearts by faith.",
                   "style": null
                 }
               ]
@@ -24323,7 +24347,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The church decided that there is no commandment that the Gentiles had to keep the law of Moses.",
+                  "text": "The church decided that there is no commandment that the Gentiles had to be circumcised and keep the civil and ceremonial laws.",
                   "style": null
                 }
               ]
@@ -24385,7 +24409,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Controversy Regarding the Salvation of the Gentiles",
+              "text": "The Controversy Regarding the Salvation of the Gentiles",
               "style": null
             }
           ]
@@ -24517,7 +24541,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What vision did Paul receive when he was in Troas.",
+                  "text": "What vision did Paul receive when he was in Troas?",
                   "style": null
                 }
               ]
@@ -24548,7 +24572,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The vision meant that God had called Paul to preach the gospel in Macedonia.",
+                  "text": "The vision meant that God was calling Paul to preach the gospel in Macedonia.",
                   "style": null
                 }
               ]
@@ -24861,7 +24885,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Paul meant that the jailer must do nothing for his salvation, but that he and his house were saved by faith only.",
+                  "text": "Paul meant that the jailer must do nothing for his salvation, for he and his house were saved by faith only.",
                   "style": null
                 }
               ]
@@ -24902,7 +24926,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Second Missionary Journey (2)",
+              "text": "The Second Missionary Journey (2)",
               "style": null
             }
           ]
@@ -25235,7 +25259,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Paul met about twelve disciples who had been baptized by John the Baptist in the name Jesus but had not received the Holy Ghost.",
+                  "text": "Paul met about twelve disciples who had been baptized by John the Baptist in the name of Jesus but had not received the Holy Ghost.",
                   "style": null
                 }
               ]
@@ -25382,7 +25406,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The man attacked and beat Sceva and his sons and they fled naked and wounded.",
+                  "text": "The man attacked and beat Sceva and his sons, and they fled naked and wounded.",
                   "style": null
                 }
               ]
@@ -25450,7 +25474,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What the result of Paul’s preaching at Ephesus and in the surrounding area?",
+                  "text": "What was the result of Paul’s preaching at Ephesus and in the surrounding area?",
                   "style": null
                 }
               ]
@@ -25502,7 +25526,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "They were angry because they made silver shrines for the temple of the goddess Diana in Ephesus and many stopped buying them.",
+                  "text": "They were angry because they made silver shrines for the temple of the goddess Diana, and many people stopped buying the shrines.",
                   "style": null
                 }
               ]
@@ -26061,7 +26085,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The enemies of the gospel from Asia said that Paul defiled the temple by taking Greeks into it.",
+                  "text": "The enemies of the gospel from Asia said that Paul had defiled the temple by taking Greeks into it.",
                   "style": null
                 }
               ]
@@ -26219,7 +26243,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Acts 21:15–Acts 22",
+              "text": "Acts 21:15–40",
+              "style": "bible_link"
+            },
+            {
+              "text": "Acts 22",
               "style": "bible_link"
             }
           ]
@@ -26799,7 +26827,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Tertullus accused Paul of being a rebel who stirred up the Jews and profaned the temple.",
+                  "text": "Tertullus accused Paul of being a rebel who had stirred up the Jews and profaned the temple.",
                   "style": null
                 }
               ]
@@ -26810,7 +26838,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Tertullus say about the mob that tried to kill Paul and the chief captain, Claudius Lysius?",
+                  "text": "What did Tertullus say about the chief captain, Claudius Lysius, and the mob that had tried to kill Paul?",
                   "style": null
                 }
               ]
@@ -27438,7 +27466,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Paul told the centurion that to save their lives the sailors had to stay with the ship and the centurion ordered his soldiers to cut the sailor’s boat away from the ship.",
+                  "text": "Paul told the centurion that to save their lives the sailors had to stay with the ship, and the centurion ordered his soldiers to cut the sailor’s boat away from the ship.",
                   "style": null
                 }
               ]
@@ -27449,7 +27477,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "How did the ship come to land?",
+                  "text": "How did the men get to land?",
                   "style": null
                 }
               ]
@@ -27573,7 +27601,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Where had the ship that Paul was on been shipwrecked?",
+                  "text": "Where did the ship that Paul was on run aground and break in pieces?",
                   "style": null
                 }
               ]
@@ -28952,7 +28980,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The prophet told Israel that God had delivered them from Egypt and given them Canaan, but Israel disobeyed God and turned to idols.",
+                  "text": "The prophet told the Israelites that God had delivered them from Egypt and given them Canaan, but they disobeyed God and turned to idols.",
                   "style": null
                 }
               ]
@@ -29293,7 +29321,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did the elders of Succoth and Penuel do when Gideon he asked for bread for his tired men?",
+                  "text": "What did the elders of Succoth and Penuel do when Gideon asked for bread to feed his tired men?",
                   "style": null
                 }
               ]
@@ -29803,8 +29831,20 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "He killed a lion with his bare hands. b. He killed thirty Philistine men. c. He burned the Philistines’ fields with foxes. d. He killed the Philistines with a great slaughter.",
-                  "style": null
+                  "text": "He killed a lion with his bare hands.",
+                  "style": "list"
+                },
+                {
+                  "text": "b. He killed thirty Philistine men.",
+                  "style": "list"
+                },
+                {
+                  "text": "c. He burned the Philistines’ fields with foxes. d. He killed the Philistines with a great slaughter.",
+                  "style": "list"
+                },
+                {
+                  "text": "d. He killed the Philistines with a great slaughter.",
+                  "style": "list"
                 }
               ]
             }
@@ -29881,7 +29921,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Numbers 6:1 –21",
+              "text": "Numbers 6:1–21",
               "style": "bible_link"
             }
           ]
@@ -31660,7 +31700,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What had the Amalekites done to the Israelites in the wilderness after they came out of Egypt?",
+                  "text": "What did the Amalekites do to the Israelites in the wilderness after they had come out of Egypt?",
                   "style": null
                 }
               ]
@@ -31670,7 +31710,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Amalekites had attacked Israel and were defeated by Joshua.",
+                  "text": "The Amalekites attacked Israel and were defeated by Joshua.",
                   "style": null
                 }
               ]
@@ -32067,7 +32107,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The servants sought out David, and brought him to Saul.",
+                  "text": "The servants sought out David and brought him to Saul.",
                   "style": null
                 }
               ]
@@ -32170,7 +32210,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, all the men of Israel were afraid of Goliath.",
+                  "text": "No, all the men of Israel’s army were afraid of Goliath.",
                   "style": null
                 }
               ]
@@ -32744,7 +32784,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What signal would Jonathan give to David to show that he could come back safely to Saul.",
+                  "text": "What signal would Jonathan give to David to show that he could come back safely to Saul?",
                   "style": null
                 }
               ]
@@ -35669,7 +35709,7 @@
           "type": "read",
           "words": [
             {
-              "text": "2 Samuel 11:1–12:25",
+              "text": "2 Samuel 11–12:25",
               "style": "bible_link"
             },
             {
@@ -35744,7 +35784,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Absalom fled and lived with the King of Geshur for three years.",
+                  "text": "Absalom fled and lived with the king of Geshur for three years.",
                   "style": null
                 }
               ]
@@ -37126,7 +37166,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Another adversary was the Syrian, Rezon, who attacked Israel all the rest of Solomon’s days.",
+                  "text": "Another adversary was the Syrian Rezon, who attacked Israel all the rest of Solomon’s days.",
                   "style": null
                 }
               ]
@@ -37559,7 +37599,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, Rehoboam forsook the law of God along with the princes and the people.",
+                  "text": "No, Rehoboam along with the princes and the people forsook the law of God.",
                   "style": null
                 }
               ]
@@ -37622,7 +37662,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Shishak stripped the nation of all its treasures, and Judah became servants to Shishak.",
+                  "text": "Shishak stripped the nation of all its treasures, and the people of Judah became servants to Shishak.",
                   "style": null
                 }
               ]
@@ -38023,7 +38063,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who as King Asa?",
+                  "text": "Who was King Asa?",
                   "style": null
                 }
               ]
@@ -38237,7 +38277,7 @@
               "style": "bible_link"
             },
             {
-              "text": "2 Chronicles 14:1–16:14",
+              "text": "2 Chronicles 14–16",
               "style": "bible_link"
             }
           ]
@@ -38472,7 +38512,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "When Moab, Ammon, and Edom attacked Jehoshaphat, God turned those nations against each other, and they destroy each other.",
+                  "text": "When Moab, Ammon, and Edom attacked Jehoshaphat, God turned those nations against each other, and they destroyed each other.",
                   "style": null
                 }
               ]
@@ -38699,7 +38739,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Elijah do to 450 prophets of Baal and the 400 prophets of the grove?",
+                  "text": "What did Elijah do to four hundred fifty prophets of Baal and the four hundred prophets of the grove?",
                   "style": null
                 }
               ]
@@ -39399,7 +39439,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Elisha promise the king would happen the next day.",
+                  "text": "What promise did Elisha make to the king of Israel regarding the next day.",
                   "style": null
                 }
               ]
@@ -39554,7 +39594,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, Jehu conspired against Ahab’s son, King Jehoram, and slew him with his bow and arrow.",
+                  "text": "No, Jehu conspired against Ahab’s son, King Jehoram, and slew him with a bow and arrow.",
                   "style": null
                 }
               ]
@@ -40996,7 +41036,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jerusalem’s destruction showed that Israel had not kept the law of God, so that the promise could not have come through Israel’s obedience.",
+                  "text": "Jerusalem’s destruction showed that Judah had not kept the law of God, so that the promise could not have come through Judah’s obedience.",
                   "style": null
                 }
               ]
@@ -41017,7 +41057,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, it was God's sovereign purpose to fulfill his promise in Jesus Christ, who is David’s greater son.",
+                  "text": "No, it was God’s sovereign purpose to fulfill his promise in Jesus Christ, who is David’s greater son.",
                   "style": null
                 }
               ]
@@ -41528,7 +41568,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Ezra and Nehemiah",
+              "text": "Ezra 1–10",
+              "style": "bible_link"
+            },
+            {
+              "text": "Nehemiah 1–13",
               "style": "bible_link"
             }
           ]
@@ -41774,7 +41818,7 @@
           "type": "read",
           "words": [
             {
-              "text": "Esther",
+              "text": "Esther 1–10",
               "style": "bible_link"
             }
           ]
@@ -41793,7 +41837,7 @@
           "type": "memory_verse",
           "words": [
             {
-              "text": "“Our God is in the heavens: he hath down whatsoever he hath pleased.”—",
+              "text": "“Our God is in the heavens: he hath done whatsoever he hath pleased.”—",
               "style": null
             },
             {
@@ -41842,7 +41886,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "“In the beginning was the Word, and the Word was with God, and the Word was God. The same in the beginning was with God.”",
+                  "text": "“In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God.”",
                   "style": null
                 }
               ]
@@ -42099,7 +42143,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Jesus’ attendance at the wedding teach us?",
+                  "text": "What does Jesus’ attendance at the wedding teach us?",
                   "style": null
                 }
               ]
@@ -43272,7 +43316,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "How did the nobleman man demonstrate his faith?",
+                  "text": "How did the nobleman demonstrate his faith?",
                   "style": null
                 }
               ]
@@ -43602,7 +43646,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Jesus say about the Jews’ who claimed to trust in Moses and the scriptures?",
+                  "text": "What did Jesus say about the Jews who claimed to trust in Moses and the scriptures?",
                   "style": null
                 }
               ]
@@ -43632,7 +43676,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Healing the Lame Man at the Pool of Bethesda",
+              "text": "The Healing of the Lame Man at the Pool of Bethesda",
               "style": null
             }
           ]
@@ -43837,7 +43881,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "We eat and drink Christ by faith and we are more and more united to him.",
+                  "text": "We eat and drink Christ by faith, and we are more and more united to him.",
                   "style": null
                 }
               ]
@@ -43858,7 +43902,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The people all left Jesus and followed him no more.",
+                  "text": "All the people left Jesus and followed him no more.",
                   "style": null
                 }
               ]
@@ -43902,7 +43946,7 @@
               "style": "bible_link"
             },
             {
-              "text": "John 6:1–71",
+              "text": "John 6",
               "style": "bible_link"
             }
           ]
@@ -43911,7 +43955,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Feeding the Five Thousand",
+              "text": "The Feeding of the Five Thousand",
               "style": null
             }
           ]
@@ -44833,7 +44877,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Jews were outside Christ and thus in bondage to the law, wrath, sin, and death.",
+                  "text": "The Jews were outside of Christ and thus in bondage to the law, wrath, sin, and death.",
                   "style": null
                 }
               ]
@@ -44854,7 +44898,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus spoke of the justified believer’s freedom from the condemnation of the law and eternal life in the Spirit as a son of God free from the law, sin, and death.",
+                  "text": "Jesus spoke of the justified believer’s freedom from the condemnation of the law and his possession of eternal life in the Spirit as a son of God free from the law, sin, and death.",
                   "style": null
                 }
               ]
@@ -45267,7 +45311,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Healing the Man Born Blind",
+              "text": "The Healing of the Man Born Blind",
               "style": null
             }
           ]
@@ -45430,7 +45474,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "His sheep are all the elect that God has appointed to eternal life in Christ.",
+                  "text": "His sheep are all the elect that God appointed to eternal life in Christ.",
                   "style": null
                 }
               ]
@@ -45462,7 +45506,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Why did the Jews did not believe in Jesus Christ?",
+                  "text": "Why did the Jews not believe in Jesus Christ?",
                   "style": null
                 }
               ]
@@ -45849,7 +45893,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "How did the multitudes respond to Jesus’ royal entry in Jerusalem?",
+                  "text": "How did the multitudes respond to Jesus’ royal entry into Jerusalem?",
                   "style": null
                 }
               ]
@@ -46755,7 +46799,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the fruit of our union with Jesus Christ?",
+                  "text": "What is the effect of our union with Jesus Christ?",
                   "style": null
                 }
               ]
@@ -46797,7 +46841,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "How did Jesus explain the world and the false church’s hatred and persecution of God’s people?",
+                  "text": "How did Jesus explain the hatred and persecution of God’s people by the world and the false church?",
                   "style": null
                 }
               ]
@@ -47022,7 +47066,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Jesus promised to give to his people through the Spirit?",
+                  "text": "What did Jesus promise to give to his people through the Spirit?",
                   "style": null
                 }
               ]
@@ -47139,7 +47183,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "When he prayed, Christ was our high priest who intercedes for us with God.",
+                  "text": "When he prayed, Christ was our high priest who interceded for us with God.",
                   "style": null
                 }
               ]
@@ -47244,7 +47288,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "While Christ was in the world, he kept all God’ people and lost none of them.",
+                  "text": "While Christ was in the world, he kept all God’s people and lost none of them.",
                   "style": null
                 }
               ]
@@ -47919,7 +47963,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Pilate asked, “Art thou the king of the Jews”?",
+                  "text": "Pilate asked, “Art thou the king of the Jews?”",
                   "style": null
                 }
               ]
@@ -47982,7 +48026,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Jews cried, “Not this man, but Barabbas!”",
+                  "text": "The Jews cried, “Not this man but Barabbas!”",
                   "style": null
                 }
               ]
@@ -48228,7 +48272,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said, “Woman, behold they son,” and to John, “Behold thy mother.”",
+                  "text": "Jesus said, “Woman, behold thy son,” and to John, “Behold thy mother.”",
                   "style": null
                 }
               ]
@@ -48699,7 +48743,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus told them to cast their nets on the other side of the ship.",
+                  "text": "Jesus told them to cast their net on the other side of the ship.",
                   "style": null
                 }
               ]
@@ -48710,7 +48754,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What happened when the disciples cast their nets on the other side?",
+                  "text": "What happened when the disciples cast their net on the other side?",
                   "style": null
                 }
               ]
@@ -49009,7 +49053,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "After Jehoiachin God had said that not a man from David’s royal line would sit on the throne of David.",
+                  "text": "God had said that after the reign of King Jehoiachin not a man from David’s royal line would sit on the throne of David.",
                   "style": null
                 }
               ]
@@ -49567,7 +49611,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The citizens hunger and thirst after the righteous of the kingdom.",
+                  "text": "The citizens hunger and thirst after the righteousness of the kingdom.",
                   "style": null
                 }
               ]
@@ -49811,28 +49855,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Give an example of what the scribes and Pharisees said about the law.",
-                  "style": null
-                }
-              ]
-            },
-            "uid": "7eccefe98d",
-            "answer": {
-              "type": "answer",
-              "words": [
-                {
-                  "text": "They said, “Ye have heard that it was said by them of old time, thou shalt not commit adultery.”",
-                  "style": null
-                }
-              ]
-            }
-          },
-          {
-            "question": {
-              "type": "question",
-              "words": [
-                {
-                  "text": "What did the scribes and Pharisees mean when they said that?",
+                  "text": "What did the scribes and Pharisees mean when they said, “Ye have heard that it was said by them of old time, thou shalt not commit adultery”?",
                   "style": null
                 }
               ]
@@ -49842,7 +49865,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "They made adultery a matter of only the outward act.",
+                  "text": "They meant that adultery was a matter of only the outward act.",
                   "style": null
                 }
               ]
@@ -49967,7 +49990,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Sermon on the Mount (2): A Righteousness That Exceeds the Righteousness of the Pharisees",
+              "text": "The Sermon on the Mount (2): A Righteousness That Exceeds the Righteousness of the Pharisees",
               "style": null
             }
           ]
@@ -50225,7 +50248,11 @@
           "type": "read",
           "words": [
             {
-              "text": "Matthew 6:19–7:29",
+              "text": "Matthew 6:19–34",
+              "style": "bible_link"
+            },
+            {
+              "text": "Matthew 7",
               "style": "bible_link"
             }
           ]
@@ -50234,7 +50261,7 @@
           "type": "heading",
           "words": [
             {
-              "text": "Sermon on the Mount (3) Seek First the Kingdom and Entering at the Straight Gate",
+              "text": "The Sermon on the Mount (3): Seek First the Kingdom and Entering at the Straight Gate",
               "style": null
             }
           ]
@@ -51029,7 +51056,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "They said that Jesus cast out devils by the power of Beelzebub, the prince of the devils.",
+                  "text": "They said that Jesus cast out devils by the power of Beelzebub.",
                   "style": null
                 }
               ]
@@ -51092,7 +51119,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said that all manner of blasphemy and sin is forgiven men, but the scribes and Pharisees had committed the sin against the Holy Spirit and that sin is not forgiven.",
+                  "text": "Jesus said that all manner of blasphemy and sin is forgiven but they had committed the sin against the Holy Spirit and that sin is not forgiven.",
                   "style": null
                 }
               ]
@@ -51187,7 +51214,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Why did Jesus pronounce woe on the cities of Capernaum, Chorazin, and Bethsaida?",
+                  "text": "Why did Jesus pronounce woe on Capernaum, Chorazin, and Bethsaida?",
                   "style": null
                 }
               ]
@@ -51285,11 +51312,11 @@
           "type": "memory_verse",
           "words": [
             {
-              "text": "“Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.”—",
+              "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.”—",
               "style": null
             },
             {
-              "text": "Matthew 11:28–30",
+              "text": "Matthew 11:29–30",
               "style": "bible_link"
             }
           ]
@@ -51302,7 +51329,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did the disciples do as they were following Jesus through a field on the Sabbath?",
+                  "text": "What did the disciples do as they walked through a field on the Sabbath?",
                   "style": null
                 }
               ]
@@ -51344,7 +51371,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the Sabbath?",
+                  "text": "What was the Old Testament Sabbath?",
                   "style": null
                 }
               ]
@@ -51354,7 +51381,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Sabbath is the day of rest, which in the Old Testament was the seventh day of the week.",
+                  "text": "The Sabbath was the day of rest on the seventh day of the week.",
                   "style": null
                 }
               ]
@@ -51713,7 +51740,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Some seeds fell on good soil, and other seeds fell on thorny soil, stoney soil, and the hard path.",
+                  "text": "Some seeds fell on good soil, and other seeds fell on thorny soil, stony soil, and the hard path.",
                   "style": null
                 }
               ]
@@ -51766,7 +51793,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the stoney soil?",
+                  "text": "What is the stony soil?",
                   "style": null
                 }
               ]
@@ -52572,7 +52599,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said, “a rich man shall hardly enter into the kingdom of heaven.”",
+                  "text": "Jesus said, “A rich man shall hardly enter into the kingdom of heaven.”",
                   "style": null
                 }
               ]
@@ -52637,7 +52664,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said, “Everyone who forsakes all in my name will receive a hundredfold more in this life with persecutions and in the world to come eternal life.”",
+                  "text": "Jesus said, “Every one who forsakes all in my name will receive a hundredfold more in this life with persecutions and in the world to come eternal life.”",
                   "style": null
                 }
               ]
@@ -52805,7 +52832,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The lord of the vineyard meant that his goodness in giving everyone the same wage brought out that those who complained evilly thought that they deserved more than a penny.",
+                  "text": "The lord of the vineyard meant that his goodness in giving each laborer the same wage brought out that those who complained evilly thought that they deserved more than a penny.",
                   "style": null
                 }
               ]
@@ -53309,7 +53336,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said that at the burning bush God said to Moses, “I am the God of Abraham, Isaac, and Jacob,” and he is the God of the living and not of the dead.”",
+                  "text": "Jesus said that at the burning bush God had said to Moses, “I am the God of Abraham, Isaac, and Jacob,” and he is the God of the living and not of the dead.”",
                   "style": null
                 }
               ]
@@ -54265,7 +54292,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "How did Christ show his suffering under the weight of our sins in the Garden?",
+                  "text": "In the garden how did Christ show his suffering under the weight of our sins?",
                   "style": null
                 }
               ]
@@ -54317,7 +54344,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The traitor Judas Iscariot came with a multitude that had swords and staves from the chief priests.",
+                  "text": "The traitor Judas Iscariot came with a multitude of soldiers who had swords and staves from the chief priests.",
                   "style": null
                 }
               ]
@@ -54575,7 +54602,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter remembered Jesus’ words to him that he would deny him before the cock crew, and Peter went out and wept bitterly.",
+                  "text": "Peter remembered Jesus’ words that before the cock crowed Peter would deny Jesus three times, and Peter went out and wept bitterly.",
                   "style": null
                 }
               ]
@@ -54659,7 +54686,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus said, “I am: and hereafter you will see the Son of man sitting on the right hand of power and coming in the clouds of heaven.”",
+                  "text": "Jesus said, “I am, and hereafter you will see the Son of man sitting on the right hand of power and coming in the clouds of heaven.”",
                   "style": null
                 }
               ]
@@ -54833,7 +54860,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Pilate arrayed Jesus in a purple robe, brought him out to the people, and said, “Behold, your king!”",
+                  "text": "Pilate brought Jesus, arrayed in a purple robe, out to the people and said, “Behold, your king!”",
                   "style": null
                 }
               ]
@@ -54907,7 +54934,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What did Pilate do when he saw that he could not change the mind of the Jews?",
+                  "text": "What did Pilate do when he saw that he could not change the minds of the Jews?",
                   "style": null
                 }
               ]
@@ -54938,7 +54965,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Jews said, “His blood be on us, and on our children.”",
+                  "text": "The Jews said, “His blood be on us and on our children.”",
                   "style": null
                 }
               ]
@@ -55049,7 +55076,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Pilate wrote the superscription: “JESUS OF NAZARETH THE KING OF THE JEWS.”",
+                  "text": "Pilate wrote the superscription: “Jesus of Nazareth the King of the Jews.”",
                   "style": null
                 }
               ]
@@ -55236,7 +55263,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Luke 23:26-53",
+              "text": "Luke 23:26–53",
               "style": "bible_link"
             },
             {
@@ -55339,7 +55366,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who appeared to the woman as they returned to tell the disciples?",
+                  "text": "Who appeared to the women as they returned to tell the disciples?",
                   "style": null
                 }
               ]
@@ -55370,7 +55397,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Peter saw the linen grave clothes and the napkin that had been around Jesus’ face folded by itself in a corner.",
+                  "text": " Peter saw the linen grave clothes as they had been on Jesus and the napkin that had been around Jesus’ face folded by itself in a corner.",
                   "style": null
                 }
               ]
@@ -63755,7 +63782,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Scripture is one, infallible, perspicuous, and sufficient word of God.",
+                  "text": "Scripture is the infallible, one, perspicuous, and sufficient word of God.",
                   "style": null
                 }
               ]
@@ -64626,7 +64653,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What name of God is found in each of the following passages: Genesis 1:1; Numbers 24:16; Isaiah 6:3; John 8:58 Why does the name Jehovah not appear in the New Testament?",
+                  "text": "What name of God is found in each of the following passages: Genesis 1:1; Numbers 24:16; Isaiah 6:3; and John 8:58",
                   "style": null
                 }
               ]
@@ -64638,24 +64665,24 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Heidelberg Catechism Lord’s Day 46, what is the significance of",
+                  "text": "Why does the name Jehovah not appear in the New Testament?",
                   "style": null
                 }
               ]
             },
-            "uid": "7d74d3bab2"
+            "uid": "46377be46d"
           },
           {
             "question": {
               "type": "question",
               "words": [
                 {
-                  "text": "God’s name Father?",
+                  "text": "According to Heidelberg Catechism Lord’s Day 46, what is the significance of God’s name Father?",
                   "style": null
                 }
               ]
             },
-            "uid": "f614946351"
+            "uid": "7d74d3bab2"
           },
           {
             "question": {
@@ -64849,7 +64876,7 @@
               "style": "bible_link"
             },
             {
-              "text": "2 Corinthians 4;6",
+              "text": "2 Corinthians 4:6",
               "style": "bible_link"
             },
             {
@@ -65310,7 +65337,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "In the incarnation of Jesus Christ, God did what was impossible for our salvation.",
+                  "text": "In the incarnation of Jesus Christ, God did what was humanly impossible for our salvation.",
                   "style": null
                 }
               ]
@@ -65690,7 +65717,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God certainly does not love all men, but he loves Christ and the elect body of Christ as those whom God has justified though Christ.",
+                  "text": "God certainly does not love all men, but he loves Christ and the elect body of Christ as those whom God has justified through Christ.",
                   "style": null
                 }
               ]
@@ -65996,7 +66023,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Predestination is God’s decree determining the eternal state of all his rational creatures, including election and reprobation.",
+                  "text": "Predestination is God’s decree, including election and reprobation, determining the eternal state of all his rational creatures.",
                   "style": null
                 }
               ]
@@ -66447,7 +66474,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "We certainly may, for God does nothing except what he has determined before to be done in his counsel.",
+                  "text": "We certainly may, for God does nothing except what he determined in his counsel to be done.",
                   "style": null
                 }
               ]
@@ -66468,7 +66495,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "To uphold all things means that God maintains the whole creation and every creature in their existences from moment to moment.",
+                  "text": "To uphold all things means that from moment to moment God maintains the whole creation and every creature in their existences.",
                   "style": null
                 }
               ]
@@ -66489,7 +66516,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "To govern all things means that God sovereignly directs the whole creation and every creature to its appointed end.",
+                  "text": "To govern all things means that God sovereignly directs the whole creation and every creature to their appointed ends.",
                   "style": null
                 }
               ]
@@ -66721,7 +66748,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, man remains a thinking, willing agent, and he is responsible for everything he does.",
+                  "text": "No, men remain thinking and willing agents, and they are responsible for everything they do.",
                   "style": null
                 }
               ]
@@ -67432,7 +67459,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Satan came in the serpent into the garden and beguiled Eve, and she took the fruit and gave it to Adam and he ate.",
+                  "text": "Satan came in the serpent into the garden and beguiled Eve, she took the forbidden fruit and gave it to Adam, and he ate.",
                   "style": null
                 }
               ]
@@ -67650,7 +67677,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Confer 1 Corinthians 1:21 and 1 Corinthians 15:45-50 and explain God’s purpose in the fall of Adam?",
+                  "text": "Consult 1 Corinthians 1:21 and 1 Corinthians 15:45–50 and explain God’s purpose in the fall of Adam?",
                   "style": null
                 }
               ]
@@ -67911,7 +67938,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read Canons of Dordt 3–4, article 5 and explain how there is no salvation for man in the law. In this connection read Romans 7:6 and explain this question: Must we be delivered not only from sin and death, but also from the law?",
+                  "text": "Read Canons of Dordt 3–4, article 5 and explain how there is no salvation for man in the law. In this connection read Romans 7:6 and explain this question: Must we be delivered not only from sin and death but also from the law?",
                   "style": null
                 }
               ]
@@ -67937,7 +67964,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "No, God’s purpose in Christ is to save God’s elect people whom he has appointed to salvation in his eternal covenant of grace.",
+                  "text": "No, God’s purpose in Christ is to save God’s elect people whom he appointed to salvation in his eternal covenant of grace.",
                   "style": null
                 }
               ]
@@ -68091,7 +68118,7 @@
               ]
             },
             {
-              "text": "Heidelberg Catechism Lord’s Day 4–6",
+              "text": "Heidelberg Catechism Lord’s Days 4–6",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -68416,7 +68443,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Look up the following passages and list the other names of Jesus Christ as given in each text: Genesis 3:15; Genesis 17:7 in light of Galatians 3:16; Isaiah 7:14; Isaiah 11:1; Malachi 4:2; Matthew 18:11; Matthew 27:43; John 1:29; John 8:58; Revelation 1:8; and Revelation 19:11–16.",
+                  "text": "Look up the following passages and list the name or names of Jesus Christ as given in each text: Genesis 3:15; Genesis 17:7 in light of Galatians 3:16; Isaiah 7:14; Isaiah 11:1; Malachi 4:2; Matthew 18:11; Matthew 27:43; John 1:29; John 8:58; Revelation 1:8; and Revelation 19:11–16.",
                   "style": null
                 }
               ]
@@ -68583,7 +68610,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Scripture speaks of Christ as eating, drinking, sleeping, weeping, commending his spirit to the Father, and many other things that show he was like us in all things in body and soul.",
+                  "text": "Scripture speaks of Christ as eating, drinking, sleeping, weeping, commending his spirit to the Father, and many other things that show Christ is like us in all things in body and soul.",
                   "style": null
                 }
               ]
@@ -68868,7 +68895,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Without confusion means that in the union, the natures remain distinct and do not become a single nature.",
+                  "text": "Without confusion means that in the union the natures remain distinct and do not become a single nature.",
                   "style": null
                 }
               ]
@@ -69170,7 +69197,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What are the three aspects of Christ’s office as mediator of the covenant?",
+                  "text": "What are the three aspects of Christ’s office of mediator of the covenant?",
                   "style": null
                 }
               ]
@@ -69410,7 +69437,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does Christ continue to do are our king?",
+                  "text": "What does Christ continue to do as our king?",
                   "style": null
                 }
               ]
@@ -69653,7 +69680,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The state of humiliation is the legal position in which Christ stood before God as guilty because as the head of his people he was responsible for their sins.",
+                  "text": "The state of humiliation is the legal position in which Christ stood before God as guilty because as the head of his people Christ was responsible for their sins.",
                   "style": null
                 }
               ]
@@ -69737,7 +69764,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Christ was born of a woman and made under the law in order to satisfy God’s justice, redeem us from the curse of the law, and make atonement for the sins of God’s elect people.",
+                  "text": "Christ was born of a woman and made under the law in order to satisfy God’s justice, redeem God’s elect people from the curse of the law, and make atonement for their sins.",
                   "style": null
                 }
               ]
@@ -69898,7 +69925,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Jesus Christ humbled himself to the death of cross, died, was buried, and descended into hell in perfect obedience to the Father.",
+                  "text": "Jesus Christ humbled himself to the death of the cross, died, was buried, and descended into hell in perfect obedience to the Father.",
                   "style": null
                 }
               ]
@@ -70265,7 +70292,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Christ’s resurrection is the proof that we are justified at the cross, the power of our spiritual resurrection, and the pledge of our final resurrection.",
+                  "text": "Christ’s resurrection is the proof of our justification at the cross, the power of our spiritual resurrection, and the pledge of our final resurrection.",
                   "style": null
                 }
               ]
@@ -70413,7 +70440,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Romans 6:4–6 what is the significance of the resurrection for the believer?",
+                  "text": "According to Romans 6:4–6, what is the significance of the resurrection for the believer?",
                   "style": null
                 }
               ]
@@ -70425,7 +70452,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "In 1 Corinthians 15:42–44 how does the apostle describe the change that occurs to our bodies in the final resurrection?",
+                  "text": "In 1 Corinthians 15:42–44, how does the apostle describe the change that occurs to our bodies in the final resurrection?",
                   "style": null
                 }
               ]
@@ -70547,7 +70574,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "It certainly is for all unbelievers and enemies of Christ, for he will cast them into everlasting condemnation.",
+                  "text": "It certainly is fearful for all unbelievers and enemies of Christ, for he will cast them into everlasting condemnation.",
                   "style": null
                 }
               ]
@@ -70568,7 +70595,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Not at all, for we look for the one who loved us and gave himself for us and who will by his righteousness translate all his chosen ones into heavenly joys and glory.",
+                  "text": "Not at all, for we look for the one who loved us and gave himself for us and who by his righteousness will translate all his chosen ones into heavenly joys and glory.",
                   "style": null
                 }
               ]
@@ -70666,7 +70693,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Revelation 19:11–21 what is part of the work of Christ at his second coming?",
+                  "text": "According to Revelation 19:11–21, what is part of the work of Christ at his second coming?",
                   "style": null
                 }
               ]
@@ -70800,7 +70827,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God established his covenant eternally in the counsel of election and by the wonder of grace when he incorporated his elect people into Christ.",
+                  "text": "God eternally established his covenant in the counsel of election and by the wonder of grace when he incorporated his elect people into Christ.",
                   "style": null
                 }
               ]
@@ -70990,7 +71017,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The Reformed confess that salvation is of the Lord, so that salvation is by grace and not by works.",
+                  "text": "The Reformed confess the principle that salvation is of the Lord, so that salvation is by grace and not by works.",
                   "style": null
                 }
               ]
@@ -71032,7 +71059,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Predestination is God’s eternal appointment without conditions of some in Christ to salvation by election and his appointment of others to damnation by reprobation.",
+                  "text": "Predestination is God’s eternal appointment without conditions of some in Christ to salvation by election and of others to damnation by reprobation.",
                   "style": null
                 }
               ]
@@ -71183,7 +71210,7 @@
               ]
             },
             {
-              "text": "Lord’s Day, 28 Q&A 76",
+              "text": "Lord’s Day 28, Q&A 76",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71220,7 +71247,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Give several examples from both scripture and the creeds of the truth of question and answer 7 above.",
+                  "text": "Give several examples from scripture and the creeds of the truth of question and answer 7 above.",
                   "style": null
                 }
               ]
@@ -71396,7 +71423,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "We may distinguish regeneration, calling, faith, justification, sanctification, conversion, and glorification.",
+                  "text": "We may distinguish these riches as regeneration, calling, faith, justification, sanctification, conversion, and glorification.",
                   "style": null
                 }
               ]
@@ -71480,7 +71507,7 @@
               ]
             },
             {
-              "text": "7–8",
+              "text": "Lord’s Days 7–8",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71489,7 +71516,7 @@
               ]
             },
             {
-              "text": "18, Q&A 49",
+              "text": "Lord’s Day 18, Q&A 49",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71497,7 +71524,7 @@
               ]
             },
             {
-              "text": "20",
+              "text": "Lord’s Day 20",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71505,7 +71532,7 @@
               ]
             },
             {
-              "text": "25, Q&A 65",
+              "text": "Lord’s Day 25, Q&A 65",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71513,7 +71540,7 @@
               ]
             },
             {
-              "text": "28, Q& 76",
+              "text": "Lord’s Day 28, Q&A 76",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71538,7 +71565,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read the following passages and explain what they teach about the Spirit of Christ: John 14:26; John 15:26; Acts 2:33; 2 Corinthians 3:17.",
+                  "text": "Read the following passages and explain what they teach about the Spirit of Christ: John 14:26; John 15:26; Acts 2:33; and 2 Corinthians 3:17.",
                   "style": null
                 }
               ]
@@ -71550,7 +71577,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read the following passages and explain what they say about the Holy Spirit’s work in salvation: Psalm 143:10–11; Isaiah 32:15–17; Ezekiel 37:9–10; John 3:8; John 16:13; Romans 8:11, 16, 26; Galatians 5:18; 1 Corinthians 2:11–16; 1 Corinthians 12:13; 2 Corinthians 3:18; 1 Peter 1:22.",
+                  "text": "Read the following passages and explain what they say about the Holy Spirit’s work in salvation: Psalm 143:10–11; Isaiah 32:15–17; Ezekiel 37:9–10; John 3:8; John 16:13; Romans 8:11, 16, 26; Galatians 5:18; 1 Corinthians 2:11–16; 1 Corinthians 12:13; 2 Corinthians 3:18; and 1 Peter 1:22.",
                   "style": null
                 }
               ]
@@ -71653,7 +71680,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Who are the objects of this wonder of regeneration.",
+                  "text": "Who are the objects of this wonder of regeneration?",
                   "style": null
                 }
               ]
@@ -71663,7 +71690,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The elect children of God alone are the objects of this work.",
+                  "text": "The elect children of God alone are the objects of this wonderwork.",
                   "style": null
                 }
               ]
@@ -71757,7 +71784,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Heidelberg Catechism Lord’s Days 3",
+              "text": "Heidelberg Catechism Lord’s Day 3",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71765,7 +71792,7 @@
               ]
             },
             {
-              "text": "32, Q&A 86",
+              "text": "Lord’s Day 32, Q&A 86",
               "style": "creeds_link",
               "creed": "hc",
               "indexes": [
@@ -71813,7 +71840,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Look up the following passages and explain how they describe the work of regeneration: John 3:3; 1 Peter 1:3; James 1:18; Ezekiel 37:1–10; Ephesians 2:10; 2 Corinthians 5:17; John 5:21; Ephesians 2:5–6.",
+                  "text": "Look up the following passages and explain how they describe the work of regeneration: Ezekiel 37:1–10; John 3:3; John 5:21; 2 Corinthians 5:17; Ephesians 2:10; James 1:18; and 1 Peter 1:3.",
                   "style": null
                 }
               ]
@@ -71863,7 +71890,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The calling is the wonder of grace whereby God addresses his people in the depths of their beings and calls them out of darkness and into God’s marvelous light?",
+                  "text": "The calling is the wonder of grace whereby God addresses his people in the depths of their beings and calls them out of darkness and into God’s marvelous light.",
                   "style": null
                 }
               ]
@@ -71926,7 +71953,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The external call is the proclamation by the church through her ordained ministry of the gospel of Jesus Christ and his finished work for God’s elect.",
+                  "text": "The external call is the proclamation of the gospel of Jesus Christ and his finished work for God’s elect by the church through her ordained ministry.",
                   "style": null
                 }
               ]
@@ -72042,7 +72069,7 @@
               ]
             },
             {
-              "text": "3–4, articles 8–10",
+              "text": "Canons of Dordt 3–4, articles 8–10",
               "style": "creeds_link",
               "creed": "cod",
               "indexes": [
@@ -72069,7 +72096,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Explain what Christ teaches about the calling in Matthew 22:14.",
+                  "text": "Explain what Christ teaches in Matthew 22:14 about the calling.",
                   "style": null
                 }
               ]
@@ -72257,7 +72284,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Yes, Christ describes these imitations in the parable of the sower as the stoney and thorny soils.",
+                  "text": "Yes, Christ describes these imitations in the parable of the sower as the stony and thorny soils.",
                   "style": null
                 }
               ]
@@ -72362,7 +72389,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "State what the following passages say about faith: John 3:16; Romans 8:29–30; 2 Corinthians 5:7; Ephesians 2:8; Hebrews 11:1.",
+                  "text": "State what the following passages say about faith: John 3:16; Romans 8:29–30; 2 Corinthians 5:7; Ephesians 2:8; and Hebrews 11:1.",
                   "style": null
                 }
               ]
@@ -72388,7 +72415,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The chief benefit of faith is that as the ungodly sinner I am justified before God.",
+                  "text": "The chief benefit of faith is that as the ungodly sinner he is justified before God.",
                   "style": null
                 }
               ]
@@ -72451,7 +72478,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God forgave his people eternally for Christ’s sake; and God manifested this in the cross, gave witness to this in the resurrection of Christ, and causes his people to know this by faith alone through the preaching of the gospel.",
+                  "text": "God eternally forgave his people for Christ’s sake; and God manifested this in the cross, gave witness to this in the resurrection of Christ, and causes his people to know this by faith alone through the preaching of the gospel.",
                   "style": null
                 }
               ]
@@ -72472,7 +72499,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Justification by faith means that faith makes us members of Christ and thus partakers of his righteousness.",
+                  "text": "Justification by faith means that faith makes the elect members of Christ and thus partakers of his righteousness.",
                   "style": null
                 }
               ]
@@ -72493,7 +72520,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Justification by faith alone means that faith is the only instrument of justification and that justification is apart from any works.",
+                  "text": "Justification by faith alone means that faith is the only instrument of justification and that justification is apart from any works of man.",
                   "style": null
                 }
               ]
@@ -72628,7 +72655,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Confer Genesis 15:6 and Romans 4:1–5 and explain how Abraham was justified by faith in Jesus Christ.",
+                  "text": "Consult Genesis 15:6 and Romans 4:1–5 and explain how Abraham was justified by faith in Jesus Christ.",
                   "style": null
                 }
               ]
@@ -72699,7 +72726,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Belonging to sanctification is God’s deliverance of the elect from the dominion and pollution of sin and transforming them according to the image of God in Christ Jesus.",
+                  "text": "Belonging to sanctification is God’s delivering the elect from the dominion and pollution of sin and transforming them according to the image of God in Christ Jesus.",
                   "style": null
                 }
               ]
@@ -73144,7 +73171,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read Canons of Dordt 3–4, article 5 and explain whether the preaching of the law is a means of grace to make us perform good works. Confer also Romans 7:5–13.",
+                  "text": "Read Canons of Dordt 3–4, article 5 and explain whether the preaching of the law is a means of grace to make us perform good works. Consult also Romans 7:5–13.",
                   "style": null
                 }
               ]
@@ -73156,7 +73183,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Critique the idea that the believer has fellowship with God through Christ, by faith, and the in the way of his obedience.",
+                  "text": "Critique the idea that the believer has fellowship with God through Christ, by faith, and in the way of his obedience.",
                   "style": null
                 }
               ]
@@ -73180,7 +73207,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Matthew 13:13–16 what explains that some are converted and others are not?",
+                  "text": "According to Matthew 13:13–16, what explains that some are converted and others are not?",
                   "style": null
                 }
               ]
@@ -73206,7 +73233,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "This is impossible, for God’s is unchangeable, God’s election cannot be altered, God’s promise cannot fail, and God certainly preserves his people.",
+                  "text": "This is impossible, for God is unchangeable, God’s election cannot be altered, God’s promise cannot fail, and God certainly preserves his people.",
                   "style": null
                 }
               ]
@@ -73269,7 +73296,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God is faithful to his promise; Christ never leaves the elect nor forsakes them; the Holy Spirit will not depart from them; and they can never—even by their great and many sins—lose the seed of regeneration or forfeit their state of justification.",
+                  "text": "God is faithful to his promise; Christ never leaves nor forsakes the elect; the Holy Spirit will not depart from them; and they can never—even by their great and many sins—lose the seed of regeneration or forfeit their state of justification.",
                   "style": null
                 }
               ]
@@ -73367,7 +73394,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Jude 1:1, 24",
+              "text": "Jude 1, 24",
               "style": "bible_link"
             },
             {
@@ -73396,7 +73423,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Read the following passages and state what they teach about the preservation of the saints: 1 Thessalonians 5:23; 2 Timothy 4:18; Hebrews 2:10; Jude 1:1, 24.",
+                  "text": "Read the following passages and state what they teach about the preservation of the saints: 1 Thessalonians 5:23; 2 Timothy 4:18; Hebrews 2:10; and Jude 1, 24.",
                   "style": null
                 }
               ]
@@ -73733,7 +73760,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "In light of Ephesians 4:3–6 how do you explain the division among churches? Confer 1 Corinthians 11:18–19.",
+                  "text": "In light of Ephesians 4:3–6, how do you explain the division among churches? Consult 1 Corinthians 11:18–19.",
                   "style": null
                 }
               ]
@@ -73745,7 +73772,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Look up Ephesians 1:22–23; Ephesians 2:20–22; Ephesians 5:22–33 and describe the three figures that scripture uses to describe the church of Christ.",
+                  "text": "Look up Ephesians 1:22–23; Ephesians 2:20–22; and Ephesians 5:22–33 and describe the three figures that scripture uses to describe the church of Christ.",
                   "style": null
                 }
               ]
@@ -73824,7 +73851,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the church visible?",
+                  "text": "What is the visible church?",
                   "style": null
                 }
               ]
@@ -73845,7 +73872,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What is the church invisible?",
+                  "text": "What is the invisible church?",
                   "style": null
                 }
               ]
@@ -74539,7 +74566,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Can the sacraments be administered without corruption where the gospel is not preached? Explain your answer.",
+                  "text": "Can the sacraments be administered purely where the gospel is not preached? Explain your answer.",
                   "style": null
                 }
               ]
@@ -74751,7 +74778,7 @@
               ]
             },
             {
-              "text": "the Form for the Administration of Baptism",
+              "text": "Form for the Administration of Baptism",
               "style": "creeds_link",
               "creed": "baptism",
               "indexes": [
@@ -75060,7 +75087,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does the Belgic Confession mean in article 35 when it says that we eat “the proper and natural body and proper blood of Jesus Christ?” How does the article describe the manner of our partaking?",
+                  "text": "What does the Belgic Confession mean in article 35 when it says that we eat and drink “the proper and natural body and proper blood of Jesus Christ?” How does the article describe the manner of our partaking?",
                   "style": null
                 }
               ]
@@ -75182,7 +75209,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "When the impenitent in a sinful life or false doctrine after being admonished do not repent, the church forbids them the use of the sacraments whereby they are excluded from the Christian church and by God from the kingdom of heaven.",
+                  "text": "When the impenitent, living sinful lives or believing false doctrine, after being admonished do not repent, the church forbids them the use of the sacraments whereby they are excluded from the Christian church and by God from the kingdom of heaven.",
                   "style": null
                 }
               ]
@@ -75316,7 +75343,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to 1 Corinthians 5 what does excommunication do to the impenitent?",
+                  "text": "According to 1 Corinthians 5, what does excommunication do to the impenitent?",
                   "style": null
                 }
               ]
@@ -75328,7 +75355,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What warning does Belgic Confession article 33 give to the office bearers of the church in their work of governing the church?",
+                  "text": "What warning does Belgic Confession article 32 give to officebearers of the church in their work of governing the church?",
                   "style": null
                 }
               ]
@@ -75705,7 +75732,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "If Christ died for us and paid our debt, so why must believers also die?",
+                  "text": "If Christ died for us and paid our debts, why must believers also die?",
                   "style": null
                 }
               ]
@@ -76313,7 +76340,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does Christ mean in Matthew 24:23–24 by “if it were possible, they shall deceive the very elect?” From Revelation 13 explain which beast is the political power of antichrist and which beast is the religious power of antichrist.",
+                  "text": "What does Christ mean in Matthew 24:23–24 by “if it were possible, they shall deceive the very elect?”",
                   "style": null
                 }
               ]
@@ -76325,7 +76352,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does 2 Thessalonians 2:3 mean when it calls the personal antichrist the",
+                  "text": "From Revelation 13, explain which beast is the political power of antichrist and which beast is the religious power of antichrist.",
                   "style": null
                 }
               ]
@@ -76337,7 +76364,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "“man of sin” and the “son of perdition”?",
+                  "text": "What does 2 Thessalonians 2:3 mean when it calls the personal antichrist the “man of sin” and the “son of perdition”?",
                   "style": null
                 }
               ]
@@ -76349,7 +76376,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Revelation 13 what will antichrist in both its political form and religious form do to the church?",
+                  "text": "According to Revelation 13, what will antichrist in both its political form and religious form do to the church?",
                   "style": null
                 }
               ]
@@ -76560,7 +76587,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Belgic Confession Article 37",
+              "text": "Belgic Confession article 37",
               "style": "creeds_link",
               "creed": "bc",
               "indexes": [
@@ -76605,7 +76632,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "According to Romans 13:11–14 how does the knowledge of the nearness of Christ’s coming affect the church’s life?",
+                  "text": "According to Romans 13:11–14, how does the knowledge of the nearness of Christ’s coming affect the church’s life?",
                   "style": null
                 }
               ]
@@ -76708,7 +76735,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "With what bodies will the wicked be raised?",
+                  "text": "With what bodies will the reprobate be raised?",
                   "style": null
                 }
               ]
@@ -76781,7 +76808,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "The calling is to be steadfast and immoveable in the truth and abound in the work of the Lord, knowing that our labors are not in vain.",
+                  "text": "The calling is to be steadfast and immoveable in the truth and abound in the work of the Lord, knowing that their labors are not in vain.",
                   "style": null
                 }
               ]
@@ -76853,7 +76880,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "In 1 Corinthians 15:44 what does the apostle mean by a natural and a spiritual body?",
+                  "text": "What does the apostle mean in 1 Corinthians 15:44 by a natural and a spiritual body?",
                   "style": null
                 }
               ]
@@ -76865,7 +76892,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does Daniel 12:2 and John 5:28–29 say is the difference between the resurrection of the elect and the resurrection of the reprobate?",
+                  "text": "What do Daniel 12:2 and John 5:28–29 say is the difference between the resurrection of the elect and the resurrection of the reprobate?",
                   "style": null
                 }
               ]
@@ -76936,7 +76963,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "They will appear in their resurrected bodies, whether glorious or shameful.",
+                  "text": "They will appear in their resurrected bodies, either glorious or shameful.",
                   "style": null
                 }
               ]
@@ -77041,7 +77068,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "Works will come up in the judgment in connection with the gospel, so that the works of the elect will appear in Jesus Christ as righteous, and the works of unbelievers will appear as wicked. The elect will receive their reward of the righteousness of Christ, and the wicked will receive the wages of sin.",
+                  "text": "Works will come up in the judgment in connection with the gospel, so that the works of the elect will appear in Jesus Christ as righteous, and the works of the reprobate will appear as wicked. The elect will receive their reward of the righteousness of Christ, and the reprobate will receive the wages of sin.",
                   "style": null
                 }
               ]
@@ -77149,7 +77176,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "Will men be judged in the judgment by their works?",
+                  "text": "Will men be judged in the final judgment by their works or according to their works? Explain your answer.",
                   "style": null
                 }
               ]
@@ -77208,7 +77235,7 @@
               "type": "answer",
               "words": [
                 {
-                  "text": "God will make a new heaven and new earth, where righteousness and peace will dwell.",
+                  "text": "God will make a new heaven and a new earth, where righteousness and peace will dwell.",
                   "style": null
                 }
               ]
@@ -77344,7 +77371,7 @@
               "style": "bible_link"
             },
             {
-              "text": "Revelation 21 and 22",
+              "text": "Revelation 21–22",
               "style": "bible_link"
             },
             {
@@ -77409,7 +77436,7 @@
               "type": "question",
               "words": [
                 {
-                  "text": "What does the destruction of this world and all that is in it mean for how the Christian views this world and his possessions in it? Confer the passages above.",
+                  "text": "What does the destruction of this world and all that is in it mean for how the Christian views this world and his possessions in it? Consult the passages above.",
                   "style": null
                 }
               ]
